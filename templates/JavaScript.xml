@@ -1,0 +1,80 @@
+<templateSet group="JavaScript">
+  <template name="p" value="prototype.$END$;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="bt" value="bind(this)$END$" description="bind(this)" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="cn" value="$CLASS_NAME$" description="class-name" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="jsQualifiedClassName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="b" value="bind($END$)" description="bind()" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="us" value="'use strict';&#10;$END$" description="Inserts 'use strict' statement" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="f" value="function($ARGS$) {&#10;&#9;$END$&#10;}" description="new function" toReformat="false" toShortenFQNames="true">
+    <variable name="ARGS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="if" value="if ($ARGS$) {&#10;&#9;$END$&#10;}" description="if" toReformat="false" toShortenFQNames="true">
+    <variable name="ARGS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="af" value="($END$) =&gt; {&#10;&#10;}" description="arrow function" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="afi" value="$PARAM$ =&gt; $END$" description="inline arrow function" toReformat="false" toShortenFQNames="true">
+    <variable name="PARAM" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="cnp" value="$CLASS_NAME$.prototype." description="className.prototype." toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="jsQualifiedClassName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="else" value="else {&#10;&#9;$END$&#10;}&#10;" description="else" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="elif" value="else if ($ARGS$) {&#10;&#9;$END$&#10;}&#10;" description="else if" toReformat="false" toShortenFQNames="true">
+    <variable name="ARGS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ifel" value="if ($A$) {&#10;&#9;$B$&#10;} else {&#10;&#9;$C$&#10;}&#10;" description="if-else" toReformat="false" toShortenFQNames="true">
+    <variable name="A" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="B" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="C" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="tc" value="/** @type {$TYPE$} */($END$);" description="type casting" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
