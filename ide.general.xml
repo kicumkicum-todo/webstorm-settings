@@ -7,5 +7,6 @@
     <entry key="ide.firstStartup" value="false" />
     <entry key="tabs.alphabetical" value="true" />
     <entry key="dumb.aware.run.configurations" value="true" />
+    <entry key="ide.tooltip.initialDelay" value="598" />
   </component>
 </application>
