@@ -14,6 +14,7 @@
       <mapping ext="vw" type="DBN-SQL" />
       <mapping ext="jst" type="HTML" />
       <mapping pattern="еао" type="PLAIN_TEXT" />
+      <mapping pattern="common" type="PLAIN_TEXT" />
       <mapping pattern=".test.sh.swp" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
     </extensionMap>
