@@ -78,4 +78,10 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="np" value="new Promise((resolve, reject) =&gt; {&#10;&#9;$END$&#10;});" description="new promise" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="npl" value="new Promise(function(resolve, reject) {&#10;&#9;$END$&#10;});" description="new promise legacy" toReformat="false" toShortenFQNames="true" />
 </templateSet>
