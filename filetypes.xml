@@ -13,6 +13,7 @@
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <mapping ext="jst" type="HTML" />
+      <mapping pattern=".todo" type="PLAIN_TEXT" />
       <mapping pattern="еао" type="PLAIN_TEXT" />
       <mapping pattern="common" type="PLAIN_TEXT" />
       <mapping pattern=".test.sh.swp" type="PLAIN_TEXT" />
