@@ -90,7 +90,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="//t" value="// TODO: $END$" description="todo" toReformat="false" toShortenFQNames="true">
+  <template name="/t" value="// TODO: $END$" description="todo" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
