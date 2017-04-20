@@ -1,0 +1,8 @@
+<templateSet group="Zen CSS">
+  <template name="@p" value="@param {$TYPE$} $END$" description="@param" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
