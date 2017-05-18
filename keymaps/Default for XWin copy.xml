@@ -1,4 +1,7 @@
 <keymap version="1" name="Default for XWin copy" parent="Default for XWin">
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+  </action>
   <action id="CheckinFiles">
     <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
