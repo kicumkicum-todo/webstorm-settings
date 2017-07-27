@@ -33,6 +33,9 @@
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
+  <action id="Git.ResolveConflicts">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="ctrl b" />
     <mouse-shortcut keystroke="control button1" />
