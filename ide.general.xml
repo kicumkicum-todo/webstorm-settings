@@ -8,5 +8,6 @@
     <entry key="tabs.alphabetical" value="true" />
     <entry key="dumb.aware.run.configurations" value="true" />
     <entry key="ide.tooltip.initialDelay" value="598" />
+    <entry key="search.everywhere.settings" value="true" />
   </component>
 </application>
