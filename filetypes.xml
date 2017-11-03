@@ -10,6 +10,7 @@
       <mapping pattern=".test.sh.swp" type="PLAIN_TEXT" />
       <mapping pattern="tmp-bad" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="git-rebase-todo" type="PLAIN_TEXT" />
       <mapping pattern="tpm-bad" type="PLAIN_TEXT" />
       <mapping pattern="tmp" type="PLAIN_TEXT" />
       <mapping pattern="u" type="PLAIN_TEXT" />
