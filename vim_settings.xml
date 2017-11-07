@@ -54,6 +54,10 @@
         <mark key="[" line="165" column="0" />
         <mark key="]" line="165" column="85" />
       </file>
+      <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ifaced/popups/about/about.js" timestamp="1510061715772">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="18" />
+      </file>
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/models/showcase/showcase-tile-data-asset.js" timestamp="1510055222223">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="91" />
@@ -64,7 +68,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ID0gZnVuY3Rpb24obGNuLCBzdGFydFRpbWUsIGR1cmF0aW9uKSB7</text>
+        <text>ifaced.popups.About</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ID0gZnVuY3Rpb24obGNuLCBzdGFydFRpbWUsIGR1cmF0aW9uKSB7</text>
@@ -72,8 +76,8 @@
       <register name="/" type="4">
         <text>build</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y29yZS5hcGkuTWVzc2FnZXMucHJvdG90eXBlLl9vbk90dE1lc3NhZ2UgPSBmdW5jdGlvbihldmVudE5hbWUsIG1lc3NhZ2UpIHsK</text>
+      <register name="0" type="4">
+        <text>ifaced.popups.About</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CS8vIGVtdS5wcm92aWRlci5MaWdodGhvdXNlLnByb3RvdHlwZS5nZXRFcGdFdmVudEJ5U3RhcnRUaW1lID0gZnVuY3Rpb24obGNuLCBzdGFydFRpbWUpIHsK</text>
