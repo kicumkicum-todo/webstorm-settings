@@ -3,14 +3,35 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1510052271425">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/api/vod.js" timestamp="1510055363107">
+        <mark key="[" line="398" column="0" />
+        <mark key="]" line="398" column="50" />
       </file>
-      <file name="$USER_HOME$/project/work/ert-stb-develop/.todo.md" timestamp="1510044151185">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/lighthouse.js" timestamp="1510055583463">
+        <mark key="'" line="565" column="49" />
+        <mark key="[" line="632" column="52" />
+        <mark key="]" line="632" column="52" />
+        <mark key="^" line="565" column="0" />
+        <mark key="." line="632" column="52" />
+      </file>
+      <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/api/ott.js" timestamp="1510055525263">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="84" />
+      </file>
+      <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/api/messages.js" timestamp="1510055571137">
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="74" />
+      </file>
+      <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/api/vod.js" timestamp="1510055129826">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="56" />
+      </file>
+      <file name="/content-vod.js" timestamp="1510046385266">
+        <mark key="[" line="152" column="32" />
+        <mark key="]" line="152" column="57" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1510055591106">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/scenes/content-vod/content-vod.js" timestamp="1510046444436">
         <mark key="[" line="150" column="0" />
@@ -18,61 +39,71 @@
         <mark key="." line="150" column="0" />
       </file>
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/widgets/epg-date-select/epg-date-select.js" timestamp="1510050965275" />
-      <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/scenes/abstract-vod-base/abstract-vod-base.js" timestamp="1510045457032">
-        <mark key="[" line="316" column="37" />
-        <mark key="]" line="412" column="0" />
-        <mark key="^" line="412" column="0" />
-        <mark key="." line="412" column="0" />
-      </file>
-      <file name="/content-vod.js" timestamp="1510046385266">
-        <mark key="[" line="152" column="32" />
-        <mark key="]" line="152" column="57" />
+      <file name="$USER_HOME$/project/work/ert-stb-develop/scripts/arrange-webapp-on-usb.js" timestamp="1510054173750">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/google-analytics/event-factory.js" timestamp="1510050623414" />
-      <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/scenes/vod-group/vod-group.js" timestamp="1510045522664">
-        <mark key="[" line="6" column="2" />
-        <mark key="]" line="7" column="11" />
-        <mark key="^" line="7" column="11" />
-        <mark key="." line="7" column="11" />
+      <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/externalLinks.js" timestamp="1510054341984" />
+      <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/manager/recordingManager.js" timestamp="1510055480753">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="74" />
+      </file>
+      <file name="$USER_HOME$/project/work/ert-stb-develop/src/humax-emulator/provider/lighthouse.js" timestamp="1510055504950">
+        <mark key="[" line="165" column="0" />
+        <mark key="]" line="165" column="85" />
+      </file>
+      <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/models/showcase/showcase-tile-data-asset.js" timestamp="1510055222223">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="91" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="565" column="49" filename="$USER_HOME$/project/work/ert-stb-develop/src/lib/lighthouse.js" />
+    </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>_isChildPornoAssetsAllowed</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ID0gZnVuY3Rpb24obGNuLCBzdGFydFRpbWUsIGR1cmF0aW9uKSB7</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">ID0gZnVuY3Rpb24obGNuLCBzdGFydFRpbWUsIGR1cmF0aW9uKSB7</text>
+      </register>
+      <register name="/" type="4">
+        <text>build</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">Y29yZS5hcGkuTWVzc2FnZXMucHJvdG90eXBlLl9vbk90dE1lc3NhZ2UgPSBmdW5jdGlvbihldmVudE5hbWUsIG1lc3NhZ2UpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8vIGVtdS5wcm92aWRlci5MaWdodGhvdXNlLnByb3RvdHlwZS5nZXRFcGdFdmVudEJ5U3RhcnRUaW1lID0gZnVuY3Rpb24obGNuLCBzdGFydFRpbWUpIHsK</text>
       </register>
-      <register name="&quot;" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">CgovKioKICogQG92ZXJyaWRlCiAqLwplcnQuc2NlbmVzLkNvbnRlbnRWb2QucHJvdG90eXBlLl9pc0NoaWxkUG9ybm9Bc3NldHNBbGxvd2VkID0gZnVuY3Rpb24oKSB7CglyZXR1cm4gZmFsc2U7Cn07</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWVydC5zY2VuZXMuQWJzdHJhY3RWb2RCYXNlLnByb3RvdHlwZS5fb25Bc3NldENsaWNrID0gZnVuY3Rpb24oZXZlbnROYW1lLCBhc3NldCkgewo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8vIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8vIGVydC5hcGkuVk9ELnByb3RvdHlwZS5nZXRBc3NldEJ5SWQgPSBmdW5jdGlvbihhc3NldElkKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWVydC5zY2VuZXMuQWJzdHJhY3RWb2RCYXNlLnByb3RvdHlwZS5fb25Bc3NldENsaWNrID0gZnVuY3Rpb24oZXZlbnROYW1lLCBhc3NldCkgewo=</text>
+        <text encoding="base64">CS8vIGNvcmUuYXBpLlZvZC5wcm90b3R5cGUuZ2V0QXNzZXRDaGlsZHJlbgo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">U1RCLTAwMDAgRml4IHdpdGggb2xkIGVwaWMuIGVydC5zY2VuZXMuU2VhcmNoUmVzdWx0cwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJZnNQcm9taXNlLmNvcHkoJ2J1aWxkL3BheWJhbmsnLCBkZXN0ICsgJy9wYXliYW5rJyksCgkJCWZzUHJvbWlzZS5jb3B5KCdidWlsZC9wYXllcnQnLCBkZXN0ICsgJy9wYXllcnQnKSwK</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>/build</text>
-      </register>
-      <register name="-" type="4">
-        <text />
-      </register>
-      <register name="/" type="4">
-        <text>build</text>
       </register>
     </registers>
     <search>
