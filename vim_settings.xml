@@ -26,23 +26,40 @@
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="56" />
       </file>
+      <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/scenes/abstract-vod-base/abstract-vod-base.js" timestamp="1510045457032">
+        <mark key="[" line="316" column="37" />
+        <mark key="]" line="412" column="0" />
+        <mark key="^" line="412" column="0" />
+        <mark key="." line="412" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/rest/graphic-temperature/tests/testem.json" timestamp="1510069640297">
+        <mark key="[" line="15" column="7" />
+        <mark key="]" line="15" column="6" />
+        <mark key="." line="15" column="6" />
+        <mark key="^" line="15" column="6" />
+      </file>
       <file name="/content-vod.js" timestamp="1510046385266">
         <mark key="[" line="152" column="32" />
         <mark key="]" line="152" column="57" />
       </file>
+      <file name="$USER_HOME$/project/rest/graphic-temperature/tests/ui/index.mocha.js" timestamp="1510068669814">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="28" />
+        <mark key="]" line="1" column="37" />
+        <mark key="." line="1" column="37" />
+        <mark key="^" line="1" column="37" />
+      </file>
       <file name="/Dummy.txt" timestamp="1510055591106">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/scenes/content-vod/content-vod.js" timestamp="1510046444436">
-        <mark key="[" line="150" column="0" />
-        <mark key="]" line="150" column="0" />
-        <mark key="." line="150" column="0" />
       </file>
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/widgets/epg-date-select/epg-date-select.js" timestamp="1510050965275" />
       <file name="$USER_HOME$/project/work/ert-stb-develop/scripts/arrange-webapp-on-usb.js" timestamp="1510054173750">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/rest/graphic-temperature/package.json" timestamp="1510067941366">
+        <mark key="[" line="8" column="27" />
       </file>
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/google-analytics/event-factory.js" timestamp="1510050623414" />
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/externalLinks.js" timestamp="1510054341984" />
@@ -65,13 +82,14 @@
     </filemarks>
     <jumps>
       <jump line="565" column="49" filename="$USER_HOME$/project/work/ert-stb-develop/src/lib/lighthouse.js" />
+      <jump line="13" column="0" filename="$USER_HOME$/project/rest/graphic-temperature/tests/ui/index.mocha.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ifaced.popups.About</text>
+        <text encoding="base64">LS1oZWFkbGVzcyA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gZnVuY3Rpb24obGNuLCBzdGFydFRpbWUsIGR1cmF0aW9uKSB7</text>
+        <text encoding="base64">LS1oZWFkbGVzcyA=</text>
       </register>
       <register name="/" type="4">
         <text>build</text>
@@ -80,28 +98,28 @@
         <text>ifaced.popups.About</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CS8vIGVtdS5wcm92aWRlci5MaWdodGhvdXNlLnByb3RvdHlwZS5nZXRFcGdFdmVudEJ5U3RhcnRUaW1lID0gZnVuY3Rpb24obGNuLCBzdGFydFRpbWUpIHsK</text>
+        <text encoding="base64">ICBdCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICItLWhlYWRsZXNzIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">ICAiYnJvd3Nlcl9hcmdzIjogWwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CS8vIAo=</text>
+        <text encoding="base64">ICAiImRkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CS8vIGVydC5hcGkuVk9ELnByb3RvdHlwZS5nZXRBc3NldEJ5SWQgPSBmdW5jdGlvbihhc3NldElkKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CS8vIGNvcmUuYXBpLlZvZC5wcm90b3R5cGUuZ2V0QXNzZXRDaGlsZHJlbgo=</text>
+        <text encoding="base64">YnJvd3Nlcl9hcmdzOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">U1RCLTAwMDAgRml4IHdpdGggb2xkIGVwaWMuIGVydC5zY2VuZXMuU2VhcmNoUmVzdWx0cwo=</text>
+        <text encoding="base64">aW1wb3J0IFdvcmtlciBmcm9tICcuLi8uLi9zcmMvdWkvc2VydmljZS9hYnN0cmFjdC13b3JrZXInOwppbXBvcnQgV29ya2VyVHJhbnNwb3J0IGZyb20gJy4uLy4uL3NyYy91aS9zZXJ2aWNlL3dvcmtlci10cmFuc3BvcnQnOwoKCmRlc2NyaWJlKCdXb3JrZXInLCAoKSA9PiB7CglkZXNjcmliZSgnaW5zdGFuY2luZycsICgpID0+IHsKCQlpdCgnc2hvdWxkIGluc3RhbmNlJywgKCkgPT4gewoJCQlhc3NlcnQuZXF1YWwoLTEsIFsxLCAyLCAzXS5pbmRleE9mKDQpKTsKCQkJY29uc3QgdHJhbnNwb3J0ID0gbmV3IFdvcmtlclRyYW5zcG9ydCgpOwoJCQljb25zdCB3b3JrZXIgPSBuZXcgV29ya2VyKCcnLCB0cmFuc3BvcnQpOwoJCX0pOwoJfSk7Cn0pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJZnNQcm9taXNlLmNvcHkoJ2J1aWxkL3BheWJhbmsnLCBkZXN0ICsgJy9wYXliYW5rJyksCgkJCWZzUHJvbWlzZS5jb3B5KCdidWlsZC9wYXllcnQnLCBkZXN0ICsgJy9wYXllcnQnKSwK</text>
+        <text encoding="base64">CS8vIGVtdS5wcm92aWRlci5MaWdodGhvdXNlLnByb3RvdHlwZS5nZXRFcGdFdmVudEJ5U3RhcnRUaW1lID0gZnVuY3Rpb24obGNuLCBzdGFydFRpbWUpIHsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -141,6 +159,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
