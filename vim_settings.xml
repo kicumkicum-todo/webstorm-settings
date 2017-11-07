@@ -7,6 +7,12 @@
         <mark key="[" line="398" column="0" />
         <mark key="]" line="398" column="50" />
       </file>
+      <file name="$USER_HOME$/project/work/ert-stb-develop/.todo.md" timestamp="1510044151185">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/lighthouse.js" timestamp="1510055583463">
         <mark key="'" line="565" column="49" />
         <mark key="[" line="632" column="52" />
@@ -32,8 +38,8 @@
         <mark key="^" line="412" column="0" />
         <mark key="." line="412" column="0" />
       </file>
-      <file name="$USER_HOME$/project/rest/graphic-temperature/tests/testem.json" timestamp="1510069640297">
-        <mark key="[" line="15" column="7" />
+      <file name="$USER_HOME$/project/rest/graphic-temperature/tests/testem.json" timestamp="1510071630502">
+        <mark key="[" line="17" column="2" />
         <mark key="]" line="15" column="6" />
         <mark key="." line="15" column="6" />
         <mark key="^" line="15" column="6" />
@@ -42,12 +48,24 @@
         <mark key="[" line="152" column="32" />
         <mark key="]" line="152" column="57" />
       </file>
-      <file name="$USER_HOME$/project/rest/graphic-temperature/tests/ui/index.mocha.js" timestamp="1510068669814">
+      <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/scenes/vod-group/vod-group.js" timestamp="1510045522664">
+        <mark key="[" line="6" column="2" />
+        <mark key="]" line="7" column="11" />
+        <mark key="^" line="7" column="11" />
+        <mark key="." line="7" column="11" />
+      </file>
+      <file name="$USER_HOME$/project/rest/graphic-temperature/tests/ui/index.mocha.js" timestamp="1510071025585">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="28" />
-        <mark key="]" line="1" column="37" />
-        <mark key="." line="1" column="37" />
-        <mark key="^" line="1" column="37" />
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="1" column="34" />
+        <mark key="." line="1" column="34" />
+        <mark key="^" line="1" column="34" />
+      </file>
+      <file name="$USER_HOME$/project/rest/graphic-temperature/tests/.babelrc" timestamp="1510071594419">
+        <mark key="[" line="5" column="1" />
+        <mark key="]" line="5" column="1" />
+        <mark key="^" line="5" column="1" />
+        <mark key="." line="5" column="1" />
       </file>
       <file name="/Dummy.txt" timestamp="1510055591106">
         <mark key="[" line="0" column="0" />
@@ -75,6 +93,12 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="18" />
       </file>
+      <file name="$USER_HOME$/project/rest/graphic-temperature/tests/ui/index.js" timestamp="1510071065182">
+        <mark key="[" line="5" column="20" />
+        <mark key="]" line="5" column="20" />
+        <mark key="^" line="5" column="20" />
+        <mark key="." line="5" column="20" />
+      </file>
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/models/showcase/showcase-tile-data-asset.js" timestamp="1510055222223">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="91" />
@@ -86,7 +110,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LS1oZWFkbGVzcyA=</text>
+        <text encoding="base64">CQoJCglpdCgnc2hvdWxkIHNheSBoZWxsbycsIGZ1bmN0aW9uKCkgewoJCWV4cGVjdChoZWxsbygpKS50b0JlKCdoZWxsbyB3b3JsZCcpOwoJfSk7</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">LS1oZWFkbGVzcyA=</text>
@@ -97,32 +121,32 @@
       <register name="0" type="4">
         <text>ifaced.popups.About</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBdCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CQoJCglpdCgnc2hvdWxkIHNheSBoZWxsbycsIGZ1bmN0aW9uKCkgewoJCWV4cGVjdChoZWxsbygpKS50b0JlKCdoZWxsbyB3b3JsZCcpOwoJfSk7</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICItLWhlYWRsZXNzIgo=</text>
+        <text encoding="base64">ICBdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAiYnJvd3Nlcl9hcmdzIjogWwo=</text>
+        <text encoding="base64">ICAgICItLWhlYWRsZXNzIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAiImRkCg==</text>
+        <text encoding="base64">ICAiYnJvd3Nlcl9hcmdzIjogWwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiImRkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YnJvd3Nlcl9hcmdzOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IFdvcmtlciBmcm9tICcuLi8uLi9zcmMvdWkvc2VydmljZS9hYnN0cmFjdC13b3JrZXInOwppbXBvcnQgV29ya2VyVHJhbnNwb3J0IGZyb20gJy4uLy4uL3NyYy91aS9zZXJ2aWNlL3dvcmtlci10cmFuc3BvcnQnOwoKCmRlc2NyaWJlKCdXb3JrZXInLCAoKSA9PiB7CglkZXNjcmliZSgnaW5zdGFuY2luZycsICgpID0+IHsKCQlpdCgnc2hvdWxkIGluc3RhbmNlJywgKCkgPT4gewoJCQlhc3NlcnQuZXF1YWwoLTEsIFsxLCAyLCAzXS5pbmRleE9mKDQpKTsKCQkJY29uc3QgdHJhbnNwb3J0ID0gbmV3IFdvcmtlclRyYW5zcG9ydCgpOwoJCQljb25zdCB3b3JrZXIgPSBuZXcgV29ya2VyKCcnLCB0cmFuc3BvcnQpOwoJCX0pOwoJfSk7Cn0pOwo=</text>
+        <text encoding="base64">YnJvd3Nlcl9hcmdzOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CS8vIGVtdS5wcm92aWRlci5MaWdodGhvdXNlLnByb3RvdHlwZS5nZXRFcGdFdmVudEJ5U3RhcnRUaW1lID0gZnVuY3Rpb24obGNuLCBzdGFydFRpbWUpIHsK</text>
+        <text encoding="base64">aW1wb3J0IFdvcmtlciBmcm9tICcuLi8uLi9zcmMvdWkvc2VydmljZS9hYnN0cmFjdC13b3JrZXInOwppbXBvcnQgV29ya2VyVHJhbnNwb3J0IGZyb20gJy4uLy4uL3NyYy91aS9zZXJ2aWNlL3dvcmtlci10cmFuc3BvcnQnOwoKCmRlc2NyaWJlKCdXb3JrZXInLCAoKSA9PiB7CglkZXNjcmliZSgnaW5zdGFuY2luZycsICgpID0+IHsKCQlpdCgnc2hvdWxkIGluc3RhbmNlJywgKCkgPT4gewoJCQlhc3NlcnQuZXF1YWwoLTEsIFsxLCAyLCAzXS5pbmRleE9mKDQpKTsKCQkJY29uc3QgdHJhbnNwb3J0ID0gbmV3IFdvcmtlclRyYW5zcG9ydCgpOwoJCQljb25zdCB3b3JrZXIgPSBuZXcgV29ya2VyKCcnLCB0cmFuc3BvcnQpOwoJCX0pOwoJfSk7Cn0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8vIGVtdS5wcm92aWRlci5MaWdodGhvdXNlLnByb3RvdHlwZS5nZXRFcGdFdmVudEJ5U3RhcnRUaW1lID0gZnVuY3Rpb24obGNuLCBzdGFydFRpbWUpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>/build</text>
