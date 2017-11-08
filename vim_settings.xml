@@ -16,10 +16,11 @@
         <mark key="[" line="68" column="0" />
         <mark key="]" line="68" column="57" />
       </file>
-      <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/models/notice/notice-collection.js" timestamp="1510133733924">
-        <mark key="[" line="266" column="0" />
-        <mark key="]" line="266" column="0" />
-        <mark key="." line="266" column="0" />
+      <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/models/notice/notice-collection.js" timestamp="1510134941202">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="25" column="28" />
       </file>
       <file name="$USER_HOME$/project/rest/graphic-temperature/index.mustache" timestamp="1510077963533">
         <mark key="[" line="9" column="19" />
@@ -28,11 +29,11 @@
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="56" />
       </file>
-      <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/lh-to-ui.js" timestamp="1510132938894">
-        <mark key="[" line="3" column="2" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="2" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/lh-to-ui.js" timestamp="1510135539669">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="15" />
+        <mark key="^" line="4" column="1" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/manager/metadataManager.js" timestamp="1510129255266">
         <mark key="[" line="61" column="0" />
@@ -52,6 +53,12 @@
         <mark key="[" line="182" column="0" />
         <mark key="]" line="182" column="57" />
       </file>
+      <file name="$USER_HOME$/project/rest/graphic-temperature/tests/index.html" timestamp="1510076731393">
+        <mark key="[" line="8" column="42" />
+        <mark key="]" line="7" column="38" />
+        <mark key="." line="7" column="38" />
+        <mark key="^" line="7" column="38" />
+      </file>
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/google-analytics/event-factory.js" timestamp="1510050623414" />
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/manager/recordingManager.js" timestamp="1510129280379">
         <mark key="[" line="421" column="0" />
@@ -70,6 +77,12 @@
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/api/vod.js" timestamp="1510129782329">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="74" />
+      </file>
+      <file name="$USER_HOME$/project/work/ert-stb-develop/.todo.md" timestamp="1510044151185">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/api/messages.js" timestamp="1510133870315">
         <mark key="[" line="322" column="0" />
@@ -100,16 +113,27 @@
         <mark key="[" line="152" column="32" />
         <mark key="]" line="152" column="57" />
       </file>
+      <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/scenes/vod-group/vod-group.js" timestamp="1510045522664">
+        <mark key="[" line="6" column="2" />
+        <mark key="]" line="7" column="11" />
+        <mark key="^" line="7" column="11" />
+        <mark key="." line="7" column="11" />
+      </file>
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/upgrade.js" timestamp="1510110778434" />
-      <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/models/notice/notice.js" timestamp="1510133779335">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="761" column="0" />
-        <mark key="." line="761" column="0" />
+      <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/models/notice/notice.js" timestamp="1510135134679">
+        <mark key="]" line="774" column="0" />
+        <mark key="." line="774" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/rest/graphic-temperature/tests/.babelrc" timestamp="1510071594419">
+        <mark key="[" line="5" column="1" />
+        <mark key="]" line="5" column="1" />
+        <mark key="^" line="5" column="1" />
+        <mark key="." line="5" column="1" />
       </file>
       <file name="$USER_HOME$/project/rest/graphic-temperature/tests/ui/index.mustache" timestamp="1510077495437">
         <mark key="[" line="21" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510133629942">
+      <file name="/Dummy.txt" timestamp="1510135564523">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/scenes/content-vod/content-vod.js" timestamp="1510046444436">
@@ -120,6 +144,12 @@
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/manager/channelManager.js" timestamp="1510129046987">
         <mark key="[" line="519" column="0" />
         <mark key="]" line="519" column="71" />
+      </file>
+      <file name="$USER_HOME$/project/rest/graphic-temperature/src/ui/service/data-base.js" timestamp="1510080085744">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="13" />
+        <mark key="^" line="0" column="13" />
+        <mark key="." line="0" column="13" />
       </file>
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/providers/gifts.js" timestamp="1510110630040" />
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/manager/schedulerManager.js" timestamp="1510129393025">
@@ -170,7 +200,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LyoqCiAqIEB0eXBlIHtjb3JlLmFwaS5DaGFubmVsc30KICovCmNvcmUuYXBpLk1lc3NhZ2VzLnByb3RvdHlwZS5fYXBpQ2hhbm5lbHM7CgoK</text>
+        <text encoding="base64">KiBhcGkuY3Jvc3NNZW51Cg==</text>
       </register>
       <register name="-" type="4">
         <text>_apiOtt</text>
@@ -182,31 +212,31 @@
         <text encoding="base64">Z29vZy5yZXF1aXJlKCcnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoqCiAqIEB0eXBlIHtjb3JlLmFwaS5DaGFubmVsc30KICovCmNvcmUuYXBpLk1lc3NhZ2VzLnByb3RvdHlwZS5fYXBpQ2hhbm5lbHM7CgoK</text>
+        <text encoding="base64">KiBhcGkuY3Jvc3NNZW51Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXRoaXMuX2FwaUNoYW5uZWxzID0gZGVwcy5hcGlDaGFubmVsczsK</text>
+        <text encoding="base64">KiBhcGkuY3Jvc3NNZW51Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Z29vZy5yZXF1aXJlKCdjb3JlLmFwaS5PdHQnKTsK</text>
+        <text encoding="base64">ICogYXBpLmNyb3NzTWVudQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Z29vZy5yZXF1aXJlKCdjb3JlLmFwaS5DaGFubmVscycpOwo=</text>
+        <text encoding="base64">ICogYXBpLmNyb3NzTWVudQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXRoaXMuX2FwaU90dCA9IGRlcHMuYXBpT3R0Owo=</text>
+        <text encoding="base64">ICogYXBpLmNyb3NzTWVudQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoqCiAqIEB0eXBlIHtjb3JlLmFwaS5PdHR9CiAqLwpjb3JlLmFwaS5NZXNzYWdlcy5wcm90b3R5cGUuX2FwaU90dDsKCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCiAqIEB0eXBlIHtjb3JlLkxvZ2dlcn0KICovCmNvcmUuYXBpLk1lc3NhZ2VzLnByb3RvdHlwZS5fbG9nZ2VyOwoKCg==</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCiAqIEB0eXBlIHtjb3JlLmFwaS5PdHR9CiAqLwpjb3JlLmFwaS5NZXNzYWdlcy5wcm90b3R5cGUuX2FwaU90dDsKCgo=</text>
+        <text encoding="base64">CXRoaXMuX2xpZ2h0aG91c2UgPSBkZXBzLmxpZ2h0aG91c2U7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlhcGlPdHQ6IHRoaXMuX2FwaU90dCwK</text>
+        <text encoding="base64">LyoqCiAqIEB0eXBlIHtjb3JlLkxpZ2h0aG91c2V9CiAqLwpjb3JlLm1vZGVscy5Ob3RpY2UucHJvdG90eXBlLl9saWdodGhvdXNlOwoKCg==</text>
       </register>
       <register name=":" type="4">
         <text>/build</text>
