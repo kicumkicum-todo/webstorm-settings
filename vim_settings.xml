@@ -6,6 +6,12 @@
       <file name="$USER_HOME$/project/rest/graphic-temperature/index.mustache" timestamp="1510077963533">
         <mark key="[" line="9" column="19" />
       </file>
+      <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/manager/broadcastManager.js" timestamp="1510121699499">
+        <mark key="[" line="560" column="27" />
+        <mark key="]" line="560" column="28" />
+        <mark key="^" line="560" column="28" />
+        <mark key="." line="560" column="28" />
+      </file>
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/api/upgrade.js" timestamp="1510110907657" />
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/providers/changes.js" timestamp="1510110534799" />
       <file name="$USER_HOME$/project/rest/graphic-temperature/tests/index.html" timestamp="1510076731393">
@@ -60,9 +66,6 @@
       </file>
       <file name="$USER_HOME$/project/rest/graphic-temperature/tests/ui/index.mustache" timestamp="1510077495437">
         <mark key="[" line="21" column="19" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1510118961944">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/rest/graphic-temperature/src/ui/service/data-base.js" timestamp="1510080085744">
         <mark key="[" line="0" column="6" />
@@ -178,6 +181,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
