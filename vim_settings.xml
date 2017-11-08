@@ -16,24 +16,23 @@
         <mark key="[" line="68" column="0" />
         <mark key="]" line="68" column="57" />
       </file>
+      <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/models/notice/notice-collection.js" timestamp="1510133733924">
+        <mark key="[" line="266" column="0" />
+        <mark key="]" line="266" column="0" />
+        <mark key="." line="266" column="0" />
+      </file>
       <file name="$USER_HOME$/project/rest/graphic-temperature/index.mustache" timestamp="1510077963533">
         <mark key="[" line="9" column="19" />
       </file>
-      <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/api/vod.js" timestamp="1510055129826">
+      <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/api/vod.js" timestamp="1510132717580">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="56" />
       </file>
-      <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/manager/broadcastManager.js" timestamp="1510121699499">
-        <mark key="[" line="560" column="27" />
-        <mark key="]" line="560" column="28" />
-        <mark key="^" line="560" column="28" />
-        <mark key="." line="560" column="28" />
-      </file>
-      <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/lh-to-ui.js" timestamp="1510132502355">
-        <mark key="[" line="182" column="4" />
-        <mark key="]" line="182" column="6" />
-        <mark key="^" line="182" column="6" />
-        <mark key="." line="182" column="6" />
+      <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/lh-to-ui.js" timestamp="1510132938894">
+        <mark key="[" line="3" column="2" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="2" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/manager/metadataManager.js" timestamp="1510129255266">
         <mark key="[" line="61" column="0" />
@@ -52,12 +51,6 @@
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/api/showcases.js" timestamp="1510129961781">
         <mark key="[" line="182" column="0" />
         <mark key="]" line="182" column="57" />
-      </file>
-      <file name="$USER_HOME$/project/rest/graphic-temperature/tests/index.html" timestamp="1510076731393">
-        <mark key="[" line="8" column="42" />
-        <mark key="]" line="7" column="38" />
-        <mark key="." line="7" column="38" />
-        <mark key="^" line="7" column="38" />
       </file>
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/google-analytics/event-factory.js" timestamp="1510050623414" />
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/manager/recordingManager.js" timestamp="1510129280379">
@@ -78,15 +71,11 @@
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="74" />
       </file>
-      <file name="$USER_HOME$/project/work/ert-stb-develop/.todo.md" timestamp="1510044151185">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/api/messages.js" timestamp="1510055571137">
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="74" />
+      <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/api/messages.js" timestamp="1510133870315">
+        <mark key="[" line="322" column="0" />
+        <mark key="]" line="322" column="0" />
+        <mark key="^" line="12" column="21" />
+        <mark key="." line="322" column="0" />
       </file>
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/scenes/abstract-vod-base/abstract-vod-base.js" timestamp="1510045457032">
         <mark key="[" line="316" column="37" />
@@ -111,23 +100,16 @@
         <mark key="[" line="152" column="32" />
         <mark key="]" line="152" column="57" />
       </file>
-      <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/scenes/vod-group/vod-group.js" timestamp="1510045522664">
-        <mark key="[" line="6" column="2" />
-        <mark key="]" line="7" column="11" />
-        <mark key="^" line="7" column="11" />
-        <mark key="." line="7" column="11" />
-      </file>
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/upgrade.js" timestamp="1510110778434" />
-      <file name="$USER_HOME$/project/rest/graphic-temperature/tests/.babelrc" timestamp="1510071594419">
-        <mark key="[" line="5" column="1" />
-        <mark key="]" line="5" column="1" />
-        <mark key="^" line="5" column="1" />
-        <mark key="." line="5" column="1" />
+      <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/models/notice/notice.js" timestamp="1510133779335">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="761" column="0" />
+        <mark key="." line="761" column="0" />
       </file>
       <file name="$USER_HOME$/project/rest/graphic-temperature/tests/ui/index.mustache" timestamp="1510077495437">
         <mark key="[" line="21" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510132295706">
+      <file name="/Dummy.txt" timestamp="1510133629942">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/scenes/content-vod/content-vod.js" timestamp="1510046444436">
@@ -138,12 +120,6 @@
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/manager/channelManager.js" timestamp="1510129046987">
         <mark key="[" line="519" column="0" />
         <mark key="]" line="519" column="71" />
-      </file>
-      <file name="$USER_HOME$/project/rest/graphic-temperature/src/ui/service/data-base.js" timestamp="1510080085744">
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="0" column="13" />
-        <mark key="^" line="0" column="13" />
-        <mark key="." line="0" column="13" />
       </file>
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/providers/gifts.js" timestamp="1510110630040" />
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/manager/schedulerManager.js" timestamp="1510129393025">
@@ -194,43 +170,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQl9KTsK</text>
+        <text encoding="base64">LyoqCiAqIEB0eXBlIHtjb3JlLmFwaS5DaGFubmVsc30KICovCmNvcmUuYXBpLk1lc3NhZ2VzLnByb3RvdHlwZS5fYXBpQ2hhbm5lbHM7CgoK</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>_apiOtt</text>
       </register>
       <register name="/" type="4">
         <text>build</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29yZS5hcGkuU2hvd2Nhc2VzLnByb3RvdHlwZS5fZ2V0U2hvd2Nhc2VzID0gZnVuY3Rpb24oKSB7Cg==</text>
+        <text encoding="base64">Z29vZy5yZXF1aXJlKCcnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQl9KTsK</text>
+        <text encoding="base64">LyoqCiAqIEB0eXBlIHtjb3JlLmFwaS5DaGFubmVsc30KICovCmNvcmUuYXBpLk1lc3NhZ2VzLnByb3RvdHlwZS5fYXBpQ2hhbm5lbHM7CgoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CW9wdF9vcHRpb25zID0gb3B0X29wdGlvbnMgfHwge307Cgl2YXIgdXJsID0gJ2NvbGxlY3Rpb24vdm9kLmFzc2V0L3F1ZXJ5L2RpbWVuc2lvbi9lcl9sY24vaW4vJyArIGxjbnMuam9pbigpICsgJy8nOwoKCWlmIChvcHRfb3B0aW9ucy5pc19lcGdfYXZhaWxhYmxlKSB7CgkJdXJsICs9ICdkaW1lbnNpb24vdHlwZS9lcS9jaGFubmVsL2RpbWVuc2lvbi9pc19lcGdfYXZhaWxhYmxlL2VxLzEnOwoJfQoKCWlmIChvcHRfb3B0aW9ucy5zZWxlY3QpIHsKCQl1cmwgKz0gJ3NlbGVjdC8nICsgb3B0X29wdGlvbnMuc2VsZWN0LmpvaW4oJywnKTsKCX0KCglyZXR1cm4gdGhpcwoJCS5yZXF1ZXN0KHVybCkKCQkudGhlbihmdW5jdGlvbihyZXNwb25zZSkgewoJCQlyZXR1cm4gcmVzcG9uc2VbJ2NvbGxlY3Rpb24nXTsK</text>
+        <text encoding="base64">CXRoaXMuX2FwaUNoYW5uZWxzID0gZGVwcy5hcGlDaGFubmVsczsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogUmV0dXJucyBjb3JlLmxpZ2h0aG91c2UgY2hhbm5lbHMgd2l0aCBnaXZlbiBsY25zLgogKiBAcGFyYW0ge0FycmF5PG51bWJlcj59IGxjbnMKICogQHBhcmFtIHtPYmplY3Q9fSBvcHRfb3B0aW9ucwogKiBAcmV0dXJuIHtJVGhlbmFibGV9Cg==</text>
+        <text encoding="base64">Z29vZy5yZXF1aXJlKCdjb3JlLmFwaS5PdHQnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkudGhlbihudWxsLCBmdW5jdGlvbigpIHsKCQkJcmV0dXJuIFtdOwoJCX0pOwo=</text>
+        <text encoding="base64">Z29vZy5yZXF1aXJlKCdjb3JlLmFwaS5DaGFubmVscycpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXJldHVybiB0aGlzCgkJLmdldENoYW5uZWxzQnlMY25zKFtsY25dLCB7CgkJCWlzX2VwZ19hdmFpbGFibGU6IHRydWUKCQl9KQoJCS50aGVuKGZ1bmN0aW9uKGNoYW5uZWxzKSB7CgkJCXZhciBpZHMgPSBjaGFubmVscy5tYXAoZnVuY3Rpb24oY2hhbm5lbCkgewoJCQkJcmV0dXJuIGNoYW5uZWxbJ2VwZ19jaGFubmVsX2lkJ107CgkJCX0pLmpvaW4oJycpOwoKCQkJdmFyIHVybCA9IFsKCQkJCSdjb2xsZWN0aW9uL2VwZy5zY2hlZHVsZS9xdWVyeS9kaW1lbnNpb24vc3RhcnRfZHQvc3Bhbi8nLAoJCQkJc3RhcnRUaW1lICsgMSwKCQkJCScsJywKCQkJCXN0YXJ0VGltZSArIDMsCgkJCQknL2RpbWVuc2lvbi9jaGFubmVsX2lkL2luLycsCgkJCQlpZHMKCQkJXS5qb2luKCcnKTsKCgkJCXZhciBjb2xsZWN0aW9uID0gdGhpcwoJCQkJLnJlcXVlc3QodXJsKQoJCQkJLnRoZW4oZnVuY3Rpb24ocmVzcG9uc2UpIHsKCQkJCQlyZXR1cm4gcmVzcG9uc2VbJ2NvbGxlY3Rpb24nXTsKCQkJCX0pOwoKCQkJcmV0dXJuIFByb21pc2UuYWxsKFtjb2xsZWN0aW9uLCBjaGFubmVsc10pOwoJCX0uYmluZCh0aGlzKSkKCQkudGhlbihmdW5jdGlvbihyZXNwb25zZSkgewoJCQlyZXR1cm4gdGhpcy5fcGFyc2VFcGdDb2xsZWN0aW9uKHJlc3BvbnNlWzBdLCByZXNwb25zZVsxXSk7CgkJfS5iaW5kKHRoaXMpKQo=</text>
+        <text encoding="base64">CXRoaXMuX2FwaU90dCA9IGRlcHMuYXBpT3R0Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogUmV0dXJucyBlcGcgZXZlbnQgb24gY2hhbm5lbCB3aXRoIGdpdmVuIGxjbiB3aXRoIGdpdmVuIHN0YXJ0VGltZS4KICogQHBhcmFtIHtudW1iZXJ9IGxjbgogKiBAcGFyYW0ge251bWJlcn0gc3RhcnRUaW1lCiAqIEByZXR1cm4ge0lUaGVuYWJsZTxBcnJheTwqPj59Cg==</text>
+        <text encoding="base64">LyoqCiAqIEB0eXBlIHtjb3JlLmFwaS5PdHR9CiAqLwpjb3JlLmFwaS5NZXNzYWdlcy5wcm90b3R5cGUuX2FwaU90dDsKCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXZhciB1cmwgPSAnY29sbGVjdGlvbi92b2QuYXNzZXQvcXVlcnkvZGltZW5zaW9uL2VyX2xjbi9lcS8nICsgbGNuOwoKCXJldHVybiB0aGlzCgkJLnJlcXVlc3QodXJsKQoJCS50aGVuKGZ1bmN0aW9uKHJlc3BvbnNlKSB7CgkJCXZhciBjaGFubmVsID0gcmVzcG9uc2VbJ2NvbGxlY3Rpb24nXVswXTsKCQkJaWYgKCFjaGFubmVsKSB7CgkJCQl0aHJvdyAnQ2hhbm5lbCB3aXRoIGxjbiAnICsgbGNuICsgJyBub3QgZm91bmQuJzsKCQkJfQoKCQkJcmV0dXJuIGNoYW5uZWxbJ2VwZ19jaGFubmVsX2lkJ107CgkJfSkKCQkudGhlbihmdW5jdGlvbihjaGFubmVsSWQpIHsKCQkJaWYgKCFjaGFubmVsSWQpIHsKCQkJCXRocm93ICdJbnZhbGlkIGNoYW5uZWwgaWQuJzsKCQkJfQoKCQkJdmFyIHVybCA9IFsKCQkJCSdjb2xsZWN0aW9uL2VwZy5zY2hlZHVsZS9xdWVyeS9kaW1lbnNpb24vc3RhcnRfZHQvZXEvJywKCQkJCXN0YXJ0VGltZSwKCQkJCScvZGltZW5zaW9uL2NoYW5uZWxfaWQvZXEvJywKCQkJCWNoYW5uZWxJZAoJCQldLmpvaW4oJycpOwoKCQkJcmV0dXJuIHRoaXMucmVxdWVzdCh1cmwpOwoJCX0uYmluZCh0aGlzKSkKCQkudGhlbihmdW5jdGlvbihyZXNwb25zZSkgewoJCQlyZXR1cm4gcmVzcG9uc2VbJ2NvbGxlY3Rpb24nXVswXTsKCQl9KTsKfTsK</text>
+        <text encoding="base64">LyoqCiAqIEB0eXBlIHtjb3JlLkxvZ2dlcn0KICovCmNvcmUuYXBpLk1lc3NhZ2VzLnByb3RvdHlwZS5fbG9nZ2VyOwoKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogUmV0dXJucyBlcGcgZXZlbnQgb24gY2hhbm5lbCB3aXRoIGdpdmVuIGxjbiB3aXRoIGdpdmVuIHN0YXJ0VGltZS4KICogQHBhcmFtIHtudW1iZXJ9IGxjbgogKiBAcGFyYW0ge251bWJlcn0gc3RhcnRUaW1lCiAqIEByZXR1cm4ge0lUaGVuYWJsZX0K</text>
+        <text encoding="base64">LyoqCiAqIEB0eXBlIHtjb3JlLmFwaS5PdHR9CiAqLwpjb3JlLmFwaS5NZXNzYWdlcy5wcm90b3R5cGUuX2FwaU90dDsKCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl9KTsK</text>
+        <text encoding="base64">CQlhcGlPdHQ6IHRoaXMuX2FwaU90dCwK</text>
       </register>
       <register name=":" type="4">
         <text>/build</text>
@@ -270,6 +246,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
