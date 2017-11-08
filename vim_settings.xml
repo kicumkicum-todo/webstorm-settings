@@ -29,7 +29,12 @@
         <mark key="^" line="560" column="28" />
         <mark key="." line="560" column="28" />
       </file>
-      <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/lh-to-ui.js" timestamp="1510130508220" />
+      <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/lh-to-ui.js" timestamp="1510132502355">
+        <mark key="[" line="182" column="4" />
+        <mark key="]" line="182" column="6" />
+        <mark key="^" line="182" column="6" />
+        <mark key="." line="182" column="6" />
+      </file>
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/manager/metadataManager.js" timestamp="1510129255266">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="99" />
@@ -83,6 +88,24 @@
         <mark key="[" line="109" column="0" />
         <mark key="]" line="109" column="74" />
       </file>
+      <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/scenes/abstract-vod-base/abstract-vod-base.js" timestamp="1510045457032">
+        <mark key="[" line="316" column="37" />
+        <mark key="]" line="412" column="0" />
+        <mark key="^" line="412" column="0" />
+        <mark key="." line="412" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/rest/graphic-temperature/tests/testem.json" timestamp="1510077557186">
+        <mark key="[" line="18" column="17" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="18" column="16" />
+      </file>
+      <file name="$USER_HOME$/project/rest/graphic-temperature/testem.json" timestamp="1510079463516">
+        <mark key="[" line="3" column="8" />
+        <mark key="]" line="3" column="16" />
+        <mark key="." line="3" column="16" />
+        <mark key="^" line="3" column="16" />
+      </file>
       <file name="$USER_HOME$/project/rest/graphic-temperature/node_modules/testem/views/mochachairunner.mustache" timestamp="1510076888658" />
       <file name="/content-vod.js" timestamp="1510046385266">
         <mark key="[" line="152" column="32" />
@@ -104,7 +127,7 @@
       <file name="$USER_HOME$/project/rest/graphic-temperature/tests/ui/index.mustache" timestamp="1510077495437">
         <mark key="[" line="21" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510130429028">
+      <file name="/Dummy.txt" timestamp="1510132295706">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/scenes/content-vod/content-vod.js" timestamp="1510046444436">
@@ -128,11 +151,17 @@
         <mark key="]" line="494" column="68" />
       </file>
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/widgets/epg-date-select/epg-date-select.js" timestamp="1510050965275" />
-      <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/providers/services.js" timestamp="1510130825222" />
+      <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/providers/services.js" timestamp="1510130850019" />
       <file name="$USER_HOME$/project/work/ert-stb-develop/scripts/arrange-webapp-on-usb.js" timestamp="1510054173750">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/rest/graphic-temperature/package.json" timestamp="1510078234865">
+        <mark key="[" line="9" column="30" />
+        <mark key="]" line="9" column="57" />
+        <mark key="^" line="9" column="57" />
+        <mark key="." line="9" column="57" />
       </file>
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/externalLinks.js" timestamp="1510054341984" />
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/api/welcomeScreens.js" timestamp="1510129459610">
@@ -148,6 +177,12 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="18" />
       </file>
+      <file name="$USER_HOME$/project/rest/graphic-temperature/tests/ui/index.js" timestamp="1510078842429">
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="0" column="30" />
+        <mark key="^" line="0" column="30" />
+        <mark key="." line="0" column="30" />
+      </file>
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/models/showcase/showcase-tile-data-asset.js" timestamp="1510055222223">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="91" />
@@ -159,10 +194,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CS8vIGNvcmUuYXBpLlNob3djYXNlcy5wcm90b3R5cGUuX2dldFNob3djYXNlcyA9IGZ1bmN0aW9uKCkgewo=</text>
+        <text encoding="base64">CQl9KTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gZnVuY3Rpb24obGNucywgc3RhcnRUaW1lLCBkdXJhdGlvbikgew==</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>build</text>
@@ -171,31 +206,31 @@
         <text encoding="base64">Y29yZS5hcGkuU2hvd2Nhc2VzLnByb3RvdHlwZS5fZ2V0U2hvd2Nhc2VzID0gZnVuY3Rpb24oKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CS8vIGNvcmUuYXBpLlNob3djYXNlcy5wcm90b3R5cGUuX2dldFNob3djYXNlcyA9IGZ1bmN0aW9uKCkgewo=</text>
+        <text encoding="base64">CQl9KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CS8vIGNvcmUuYXBpLlNob3djYXNlcy5wcm90b3R5cGUuX2dldFNob3djYXNlcyA9IGZ1bmN0aW9uKCkgewo=</text>
+        <text encoding="base64">CW9wdF9vcHRpb25zID0gb3B0X29wdGlvbnMgfHwge307Cgl2YXIgdXJsID0gJ2NvbGxlY3Rpb24vdm9kLmFzc2V0L3F1ZXJ5L2RpbWVuc2lvbi9lcl9sY24vaW4vJyArIGxjbnMuam9pbigpICsgJy8nOwoKCWlmIChvcHRfb3B0aW9ucy5pc19lcGdfYXZhaWxhYmxlKSB7CgkJdXJsICs9ICdkaW1lbnNpb24vdHlwZS9lcS9jaGFubmVsL2RpbWVuc2lvbi9pc19lcGdfYXZhaWxhYmxlL2VxLzEnOwoJfQoKCWlmIChvcHRfb3B0aW9ucy5zZWxlY3QpIHsKCQl1cmwgKz0gJ3NlbGVjdC8nICsgb3B0X29wdGlvbnMuc2VsZWN0LmpvaW4oJywnKTsKCX0KCglyZXR1cm4gdGhpcwoJCS5yZXF1ZXN0KHVybCkKCQkudGhlbihmdW5jdGlvbihyZXNwb25zZSkgewoJCQlyZXR1cm4gcmVzcG9uc2VbJ2NvbGxlY3Rpb24nXTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CS8vIGNvcmUuYXBpLlNob3djYXNlcy5wcm90b3R5cGUuX2dldFNob3djYXNlcyA9IGZ1bmN0aW9uKCkgewo=</text>
+        <text encoding="base64">ICogUmV0dXJucyBjb3JlLmxpZ2h0aG91c2UgY2hhbm5lbHMgd2l0aCBnaXZlbiBsY25zLgogKiBAcGFyYW0ge0FycmF5PG51bWJlcj59IGxjbnMKICogQHBhcmFtIHtPYmplY3Q9fSBvcHRfb3B0aW9ucwogKiBAcmV0dXJuIHtJVGhlbmFibGV9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CS8vIGNvcmUubWFuYWdlci5Dcm9zc01lbnUucHJvdG90eXBlLl9sb2FkQ2FsbGJhY2sgPSBmdW5jdGlvbigpIHsK</text>
+        <text encoding="base64">CQkudGhlbihudWxsLCBmdW5jdGlvbigpIHsKCQkJcmV0dXJuIFtdOwoJCX0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CS8vIGNvcmUuYXBpLlZvZC5wcm90b3R5cGUuY3JlYXRlRXh0ZXJuYWxQbGF5ZXIgPSBmdW5jdGlvbihhc3NldCwgaXNUcmFpbGVyKSB7Cg==</text>
+        <text encoding="base64">CXJldHVybiB0aGlzCgkJLmdldENoYW5uZWxzQnlMY25zKFtsY25dLCB7CgkJCWlzX2VwZ19hdmFpbGFibGU6IHRydWUKCQl9KQoJCS50aGVuKGZ1bmN0aW9uKGNoYW5uZWxzKSB7CgkJCXZhciBpZHMgPSBjaGFubmVscy5tYXAoZnVuY3Rpb24oY2hhbm5lbCkgewoJCQkJcmV0dXJuIGNoYW5uZWxbJ2VwZ19jaGFubmVsX2lkJ107CgkJCX0pLmpvaW4oJycpOwoKCQkJdmFyIHVybCA9IFsKCQkJCSdjb2xsZWN0aW9uL2VwZy5zY2hlZHVsZS9xdWVyeS9kaW1lbnNpb24vc3RhcnRfZHQvc3Bhbi8nLAoJCQkJc3RhcnRUaW1lICsgMSwKCQkJCScsJywKCQkJCXN0YXJ0VGltZSArIDMsCgkJCQknL2RpbWVuc2lvbi9jaGFubmVsX2lkL2luLycsCgkJCQlpZHMKCQkJXS5qb2luKCcnKTsKCgkJCXZhciBjb2xsZWN0aW9uID0gdGhpcwoJCQkJLnJlcXVlc3QodXJsKQoJCQkJLnRoZW4oZnVuY3Rpb24ocmVzcG9uc2UpIHsKCQkJCQlyZXR1cm4gcmVzcG9uc2VbJ2NvbGxlY3Rpb24nXTsKCQkJCX0pOwoKCQkJcmV0dXJuIFByb21pc2UuYWxsKFtjb2xsZWN0aW9uLCBjaGFubmVsc10pOwoJCX0uYmluZCh0aGlzKSkKCQkudGhlbihmdW5jdGlvbihyZXNwb25zZSkgewoJCQlyZXR1cm4gdGhpcy5fcGFyc2VFcGdDb2xsZWN0aW9uKHJlc3BvbnNlWzBdLCByZXNwb25zZVsxXSk7CgkJfS5iaW5kKHRoaXMpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CS8vIGNvcmUuTGlnaHRob3VzZS5wcm90b3R5cGUuZ2V0QXZhaWxhYmxlU3Vic2NyaXB0aW9ucyA9IGZ1bmN0aW9uKCkgewoJLy8gY29yZS5hcGkuVm9kLnByb3RvdHlwZS5nZXRTdm9kUm9vdHMgPSBmdW5jdGlvbigpIHsK</text>
+        <text encoding="base64">ICogUmV0dXJucyBlcGcgZXZlbnQgb24gY2hhbm5lbCB3aXRoIGdpdmVuIGxjbiB3aXRoIGdpdmVuIHN0YXJ0VGltZS4KICogQHBhcmFtIHtudW1iZXJ9IGxjbgogKiBAcGFyYW0ge251bWJlcn0gc3RhcnRUaW1lCiAqIEByZXR1cm4ge0lUaGVuYWJsZTxBcnJheTwqPj59Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CS8vIGNvcmUuTGlnaHRob3VzZS5wcm90b3R5cGUubG9hZEFzc2V0cyA9IGZ1bmN0aW9uKG9wdGlvbnMsIG9wdF9nZXRBc3NldHNVcmwsIG9wdF9yYXdBc3NldHMpIHsKCS8vIGNvcmUuYXBpLlZvZC5wcm90b3R5cGUuZ2V0QXZhaWxhYmxlU3Vic2NyaXB0aW9ucyA9IGZ1bmN0aW9uKCkgewo=</text>
+        <text encoding="base64">CXZhciB1cmwgPSAnY29sbGVjdGlvbi92b2QuYXNzZXQvcXVlcnkvZGltZW5zaW9uL2VyX2xjbi9lcS8nICsgbGNuOwoKCXJldHVybiB0aGlzCgkJLnJlcXVlc3QodXJsKQoJCS50aGVuKGZ1bmN0aW9uKHJlc3BvbnNlKSB7CgkJCXZhciBjaGFubmVsID0gcmVzcG9uc2VbJ2NvbGxlY3Rpb24nXVswXTsKCQkJaWYgKCFjaGFubmVsKSB7CgkJCQl0aHJvdyAnQ2hhbm5lbCB3aXRoIGxjbiAnICsgbGNuICsgJyBub3QgZm91bmQuJzsKCQkJfQoKCQkJcmV0dXJuIGNoYW5uZWxbJ2VwZ19jaGFubmVsX2lkJ107CgkJfSkKCQkudGhlbihmdW5jdGlvbihjaGFubmVsSWQpIHsKCQkJaWYgKCFjaGFubmVsSWQpIHsKCQkJCXRocm93ICdJbnZhbGlkIGNoYW5uZWwgaWQuJzsKCQkJfQoKCQkJdmFyIHVybCA9IFsKCQkJCSdjb2xsZWN0aW9uL2VwZy5zY2hlZHVsZS9xdWVyeS9kaW1lbnNpb24vc3RhcnRfZHQvZXEvJywKCQkJCXN0YXJ0VGltZSwKCQkJCScvZGltZW5zaW9uL2NoYW5uZWxfaWQvZXEvJywKCQkJCWNoYW5uZWxJZAoJCQldLmpvaW4oJycpOwoKCQkJcmV0dXJuIHRoaXMucmVxdWVzdCh1cmwpOwoJCX0uYmluZCh0aGlzKSkKCQkudGhlbihmdW5jdGlvbihyZXNwb25zZSkgewoJCQlyZXR1cm4gcmVzcG9uc2VbJ2NvbGxlY3Rpb24nXVswXTsKCQl9KTsKfTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CS8vIGNvcmUuQ2hhbmdlc01hbmFnZXIucHJvdG90eXBlLl9sb2FkQ2hhbmdlcyA9IGZ1bmN0aW9uKCkgewo=</text>
+        <text encoding="base64">ICogUmV0dXJucyBlcGcgZXZlbnQgb24gY2hhbm5lbCB3aXRoIGdpdmVuIGxjbiB3aXRoIGdpdmVuIHN0YXJ0VGltZS4KICogQHBhcmFtIHtudW1iZXJ9IGxjbgogKiBAcGFyYW0ge251bWJlcn0gc3RhcnRUaW1lCiAqIEByZXR1cm4ge0lUaGVuYWJsZX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CS8vIGNvcmUuV2VsY29tZVNjcmVlbnNNYW5hZ2VyLnByb3RvdHlwZS5fbG9hZFNjcmVlbnMgPSBmdW5jdGlvbigpIHsK</text>
+        <text encoding="base64">CQl9KTsK</text>
       </register>
       <register name=":" type="4">
         <text>/build</text>
