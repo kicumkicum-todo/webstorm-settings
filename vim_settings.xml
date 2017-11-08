@@ -3,33 +3,23 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/api/vod.js" timestamp="1510055363107">
-        <mark key="[" line="398" column="0" />
-        <mark key="]" line="398" column="50" />
+      <file name="$USER_HOME$/project/rest/graphic-temperature/index.mustache" timestamp="1510077963533">
+        <mark key="[" line="9" column="19" />
       </file>
+      <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/api/upgrade.js" timestamp="1510110907657" />
+      <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/providers/changes.js" timestamp="1510110534799" />
+      <file name="$USER_HOME$/project/rest/graphic-temperature/tests/index.html" timestamp="1510076731393">
+        <mark key="[" line="8" column="42" />
+        <mark key="]" line="7" column="38" />
+        <mark key="." line="7" column="38" />
+        <mark key="^" line="7" column="38" />
+      </file>
+      <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/google-analytics/event-factory.js" timestamp="1510050623414" />
       <file name="$USER_HOME$/project/work/ert-stb-develop/.todo.md" timestamp="1510044151185">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="^" line="36" column="0" />
         <mark key="." line="36" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/lighthouse.js" timestamp="1510055583463">
-        <mark key="'" line="565" column="49" />
-        <mark key="[" line="632" column="52" />
-        <mark key="]" line="632" column="52" />
-        <mark key="^" line="565" column="0" />
-        <mark key="." line="632" column="52" />
-      </file>
-      <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/api/ott.js" timestamp="1510055525263">
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="84" />
-      </file>
-      <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/api/messages.js" timestamp="1510055571137">
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="74" />
-      </file>
-      <file name="$USER_HOME$/project/rest/graphic-temperature/index.mustache" timestamp="1510077963533">
-        <mark key="[" line="9" column="19" />
       </file>
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/scenes/abstract-vod-base/abstract-vod-base.js" timestamp="1510045457032">
         <mark key="[" line="316" column="37" />
@@ -50,23 +40,13 @@
         <mark key="^" line="3" column="16" />
       </file>
       <file name="$USER_HOME$/project/rest/graphic-temperature/node_modules/testem/views/mochachairunner.mustache" timestamp="1510076888658" />
-      <file name="/content-vod.js" timestamp="1510046385266">
-        <mark key="[" line="152" column="32" />
-        <mark key="]" line="152" column="57" />
-      </file>
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/scenes/vod-group/vod-group.js" timestamp="1510045522664">
         <mark key="[" line="6" column="2" />
         <mark key="]" line="7" column="11" />
         <mark key="^" line="7" column="11" />
         <mark key="." line="7" column="11" />
       </file>
-      <file name="$USER_HOME$/project/rest/graphic-temperature/tests/ui/index.mocha.js" timestamp="1510071025585">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="5" column="19" />
-        <mark key="]" line="1" column="34" />
-        <mark key="." line="1" column="34" />
-        <mark key="^" line="1" column="34" />
-      </file>
+      <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/upgrade.js" timestamp="1510110778434" />
       <file name="$USER_HOME$/project/rest/graphic-temperature/tests/.babelrc" timestamp="1510071594419">
         <mark key="[" line="5" column="1" />
         <mark key="]" line="5" column="1" />
@@ -81,7 +61,7 @@
       <file name="$USER_HOME$/project/rest/graphic-temperature/tests/ui/index.mustache" timestamp="1510077495437">
         <mark key="[" line="21" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510055591106">
+      <file name="/Dummy.txt" timestamp="1510110644827">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/rest/graphic-temperature/src/ui/service/data-base.js" timestamp="1510080085744">
@@ -90,12 +70,7 @@
         <mark key="^" line="0" column="13" />
         <mark key="." line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/project/rest/graphic-temperature/tests/index.html" timestamp="1510076731393">
-        <mark key="[" line="8" column="42" />
-        <mark key="]" line="7" column="38" />
-        <mark key="." line="7" column="38" />
-        <mark key="^" line="7" column="38" />
-      </file>
+      <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/providers/gifts.js" timestamp="1510110630040" />
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/widgets/epg-date-select/epg-date-select.js" timestamp="1510050965275" />
       <file name="$USER_HOME$/project/work/ert-stb-develop/scripts/arrange-webapp-on-usb.js" timestamp="1510054173750">
         <mark key="[" line="32" column="0" />
@@ -108,16 +83,11 @@
         <mark key="^" line="9" column="57" />
         <mark key="." line="9" column="57" />
       </file>
-      <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/google-analytics/event-factory.js" timestamp="1510050623414" />
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/externalLinks.js" timestamp="1510054341984" />
       <file name="$USER_HOME$/project/rest/graphic-temperature/src/index.js" timestamp="1510079168728">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ifaced/popups/about/about.js" timestamp="1510061715772">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="18" />
       </file>
       <file name="$USER_HOME$/project/rest/graphic-temperature/tests/ui/index.js" timestamp="1510078842429">
         <mark key="[" line="0" column="30" />
