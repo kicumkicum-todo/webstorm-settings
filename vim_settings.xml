@@ -4,19 +4,18 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/lighthouse.js" timestamp="1510141639975">
-        <mark key="[" line="1085" column="0" />
-        <mark key="]" line="1085" column="61" />
-        <mark key="." line="1085" column="0" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="61" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/manager/changesManager.js" timestamp="1510129555044">
         <mark key="[" line="68" column="0" />
         <mark key="]" line="68" column="57" />
       </file>
-      <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/models/notice/notice-collection.js" timestamp="1510136519600">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="6" column="0" />
+      <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/models/notice/notice-collection.js" timestamp="1510204413448">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/project/rest/graphic-temperature/index.mustache" timestamp="1510160451070">
         <mark key="[" line="22" column="17" />
@@ -38,13 +37,10 @@
         <mark key="[" line="185" column="0" />
         <mark key="]" line="185" column="64" />
       </file>
-      <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/lighthouse/application.js" timestamp="1510140888988" />
-      <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/api/upgrade.js" timestamp="1510110907657" />
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/manager/cross-menu.js" timestamp="1510129812372">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="61" />
       </file>
-      <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/providers/changes.js" timestamp="1510110534799" />
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/api/showcases.js" timestamp="1510129961781">
         <mark key="[" line="182" column="0" />
         <mark key="]" line="182" column="57" />
@@ -55,7 +51,6 @@
         <mark key="." line="7" column="38" />
         <mark key="^" line="7" column="38" />
       </file>
-      <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/google-analytics/event-factory.js" timestamp="1510050623414" />
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/manager/recordingManager.js" timestamp="1510129280379">
         <mark key="[" line="421" column="0" />
         <mark key="]" line="421" column="68" />
@@ -87,12 +82,12 @@
         <mark key="^" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/api/messages.js" timestamp="1510140490091">
+      <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/api/messages.js" timestamp="1510204462849">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="116" column="24" />
-        <mark key="]" line="364" column="0" />
-        <mark key="^" line="12" column="21" />
-        <mark key="." line="8" column="0" />
+        <mark key="[" line="34" column="28" />
+        <mark key="]" line="34" column="28" />
+        <mark key="." line="34" column="28" />
+        <mark key="^" line="219" column="27" />
       </file>
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/scenes/abstract-vod-base/abstract-vod-base.js" timestamp="1510045457032">
         <mark key="[" line="316" column="37" />
@@ -100,7 +95,6 @@
         <mark key="^" line="412" column="0" />
         <mark key="." line="412" column="0" />
       </file>
-      <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/lighthouse/services/live-connection.js" timestamp="1510141474781" />
       <file name="$USER_HOME$/project/rest/graphic-temperature/tests/testem.json" timestamp="1510077557186">
         <mark key="[" line="18" column="17" />
         <mark key="]" line="15" column="0" />
@@ -113,7 +107,6 @@
         <mark key="." line="3" column="33" />
         <mark key="^" line="3" column="33" />
       </file>
-      <file name="$USER_HOME$/project/rest/graphic-temperature/node_modules/testem/views/mochachairunner.mustache" timestamp="1510076888658" />
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/lighthouse/api/abstract.js" timestamp="1510141580226">
         <mark key="[" line="14" column="9" />
         <mark key="]" line="14" column="9" />
@@ -126,12 +119,12 @@
         <mark key="^" line="7" column="11" />
         <mark key="." line="7" column="11" />
       </file>
-      <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/upgrade.js" timestamp="1510110778434" />
-      <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/models/notice/notice.js" timestamp="1510142431846">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="593" column="10" />
-        <mark key="." line="593" column="10" />
-        <mark key="^" line="593" column="10" />
+      <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/models/notice/notice.js" timestamp="1510204294050">
+        <mark key="'" line="8" column="35" />
+        <mark key="[" line="755" column="26" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/project/rest/graphic-temperature/tests/.babelrc" timestamp="1510071594419">
         <mark key="[" line="5" column="1" />
@@ -139,13 +132,15 @@
         <mark key="^" line="5" column="1" />
         <mark key="." line="5" column="1" />
       </file>
-      <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/lighthouse/api/messages.js" timestamp="1510142452611">
-        <mark key="[" line="34" column="32" />
-        <mark key="]" line="39" column="10" />
-        <mark key="." line="39" column="10" />
-        <mark key="^" line="39" column="10" />
+      <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/lighthouse/api/messages.js" timestamp="1510203905724">
+        <mark key="a" line="50" column="34" />
+        <mark key="'" line="39" column="25" />
+        <mark key="[" line="52" column="29" />
+        <mark key="]" line="52" column="30" />
+        <mark key="." line="52" column="30" />
+        <mark key="^" line="52" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510198703175">
+      <file name="/Dummy.txt" timestamp="1510204656534">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/scenes/content-vod/content-vod.js" timestamp="1510046444436">
@@ -157,7 +152,6 @@
         <mark key="[" line="519" column="0" />
         <mark key="]" line="519" column="71" />
       </file>
-      <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/lighthouse/services/connection.js" timestamp="1510141321579" />
       <file name="$USER_HOME$/project/rest/graphic-temperature/src/ui/service/data-base.js" timestamp="1510162580318">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="6" />
@@ -165,7 +159,6 @@
         <mark key="^" line="0" column="13" />
         <mark key="." line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/providers/gifts.js" timestamp="1510110630040" />
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/manager/schedulerManager.js" timestamp="1510129393025">
         <mark key="[" line="494" column="0" />
         <mark key="]" line="494" column="68" />
@@ -174,8 +167,6 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="36" />
       </file>
-      <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/widgets/epg-date-select/epg-date-select.js" timestamp="1510050965275" />
-      <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/providers/services.js" timestamp="1510130850019" />
       <file name="$USER_HOME$/project/work/ert-stb-develop/scripts/arrange-webapp-on-usb.js" timestamp="1510054173750">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -187,7 +178,11 @@
         <mark key="^" line="9" column="57" />
         <mark key="." line="9" column="57" />
       </file>
-      <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/externalLinks.js" timestamp="1510054341984" />
+      <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/api/api-container.js" timestamp="1510204766618">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/api/welcomeScreens.js" timestamp="1510129459610">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="66" />
@@ -203,7 +198,7 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
-      <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/models/vod-asset.js" timestamp="1510198785767" />
+      <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/models/vod-asset.js" timestamp="1510202698425" />
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/models/showcase/showcase-tile-data-asset.js" timestamp="1510055222223">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="91" />
@@ -220,66 +215,76 @@
       <jump line="0" column="0" filename="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/lighthouse/api/messages.js" />
       <jump line="13" column="10" filename="$USER_HOME$/project/rest/graphic-temperature/src/ui/service/data-base.js" />
       <jump line="0" column="0" filename="$USER_HOME$/project/rest/graphic-temperature/src/ui/service/data-base.js" />
+      <jump line="24" column="35" filename="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/lighthouse/api/messages.js" />
+      <jump line="22" column="31" filename="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/lighthouse/api/messages.js" />
+      <jump line="39" column="25" filename="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/lighthouse/api/messages.js" />
+      <jump line="137" column="32" filename="$USER_HOME$/project/work/ert-stb-develop/src/lib/models/notice/notice.js" />
+      <jump line="145" column="32" filename="$USER_HOME$/project/work/ert-stb-develop/src/lib/models/notice/notice.js" />
+      <jump line="8" column="35" filename="$USER_HOME$/project/work/ert-stb-develop/src/lib/models/notice/notice.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBdInRyYW5zZm9ybS1lczIwMTUtbW9kdWxlcy11bWQiCg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBvbGVnIG9uIDA5LjExLjE3LgogKi8K</text>
       </register>
       <register name="-" type="4">
-        <text>var url = core.config.lh.url</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>build</text>
+        <text>exper</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICIuL25vZGVfbW9kdWxlcy9jaGFpL2NoYWkuanMiCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">CgovKioKICogQHBhcmFtIHtzdHJpbmd9IG5vdGlmaWNhdGlvbklkCiAqIFRPRE86IFJldHVybiBqc2RvYwogKiBAcmV0dXJuIHtJVGhlbmFibGV9CiAqLwpsaWdodGhvdXNlLmFwaS5NZXNzYWdlcy5wcm90b3R5cGUucmVtb3ZlID0gZnVuY3Rpb24obm90aWZpY2F0aW9uSWQpIHsKCXJldHVybiB0aGlzLl9saC5yZXF1ZXN0KCdlci9ub3RpZmljYXRpb25zL3JlbW92ZScsICdQT1NUJywgewoJCQlpZDogbm90aWZpY2F0aW9uSWQKCQl9KTsKfTs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBdInRyYW5zZm9ybS1lczIwMTUtbW9kdWxlcy11bWQiCg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBvbGVnIG9uIDA5LjExLjE3LgogKi8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJ0cmFuc2Zvcm0tZXMyMDE1LW1vZHVsZXMtYW1kIgo=</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAiYmVmb3JlX3Rlc3RzIjogImJhYmVsIHRlc3RzLyAtLW91dC1kZGRpciBsaWItdGVzdHMgJiYgYmFiZWwgc3JjLyAtLW91dC1kaXIgbGliLyIK</text>
+        <text encoding="base64">CQlsaWdodGhvdXNlOiB0aGlzLl9saWdodGhvdXNlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0X3BhZ2UiOiAiLi9pbmRleC5tdXN0YWNoZSIsCg==</text>
+        <text encoding="base64">Z29vZy5yZXF1aXJlKCdjb3JlLkxpZ2h0aG91c2UnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICogICAgIGxpZ2h0aG91c2U6IGNvcmUuTGlnaHRob3VzZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJbGlnaHRob3VzZTogZGVwcy5saWdodGhvdXNlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAidGVzdF9wYWdlIjogIi4vaW5kZXgubXVzdGFjaGUiLAo=</text>
+        <text encoding="base64">CQlsaWdodGhvdXNlOiB0aGlzLl9saWdodGhvdXNlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKHt7e3NyY319fSk7Cg==</text>
+        <text encoding="base64">ICogICAgIGxpZ2h0aG91c2U6IGNvcmUuTGlnaHRob3VzZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CTxzY3JpcHQgc3JjPSIuL25vZGVfbW9kdWxlcy90ZXN0ZW0vdGVzdGVtLmpzIj48L3NjcmlwdD4K</text>
+        <text encoding="base64">Z29vZy5yZXF1aXJlKCdjb3JlLkxpZ2h0aG91c2UnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>/build</text>
       </register>
     </registers>
     <search>
-      <last-search>build</last-search>
+      <last-search>exper</last-search>
       <last-offset />
-      <last-pattern>build</last-pattern>
+      <last-pattern>exper</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>build</entry>
+        <entry>exper</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
         <entry>/build</entry>
+        <entry>/exper</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
