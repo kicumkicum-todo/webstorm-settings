@@ -145,7 +145,7 @@
         <mark key="." line="39" column="10" />
         <mark key="^" line="39" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510141408290">
+      <file name="/Dummy.txt" timestamp="1510198703175">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/scenes/content-vod/content-vod.js" timestamp="1510046444436">
@@ -203,6 +203,7 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
+      <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/models/vod-asset.js" timestamp="1510198785767" />
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/models/showcase/showcase-tile-data-asset.js" timestamp="1510055222223">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="91" />
