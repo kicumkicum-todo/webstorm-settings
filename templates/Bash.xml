@@ -1,6 +1,7 @@
 <templateSet group="Bash">
   <template name="if" value="if [[ $test$ ]]; then&#10;&#9;$END$&#10;fi" description="if statement" toReformat="false" toShortenFQNames="false">
     <variable name="test" expression="" defaultValue="&quot;test&quot;" alwaysStopAt="true" />
+    <context />
   </template>
   <template name="f" value="function $NAME$ {&#10;&#9;$END$&#10;}&#10;&#10;" description="function" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
