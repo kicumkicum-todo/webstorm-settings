@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/lighthouse.js" timestamp="1512118472349">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="61" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/lighthouse.js" timestamp="1512126326894">
+        <mark key="[" line="953" column="0" />
+        <mark key="]" line="954" column="0" />
+        <mark key="." line="954" column="0" />
+        <mark key="^" line="954" column="0" />
       </file>
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/models/cross-menu.js" timestamp="1512120328992">
         <mark key="[" line="9" column="0" />
@@ -40,15 +41,15 @@
         <mark key="[" line="185" column="0" />
         <mark key="]" line="185" column="64" />
       </file>
-      <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/api/cross-menu.js" timestamp="1512121927106" />
-      <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/application.js" timestamp="1512123912636">
+      <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/api/cross-menu.js" timestamp="1512126233846" />
+      <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/application.js" timestamp="1512126605228">
         <mark key="'" line="1192" column="59" />
         <mark key="[" line="1158" column="56" />
-        <mark key="]" line="1230" column="9" />
-        <mark key="." line="1230" column="9" />
-        <mark key="^" line="1202" column="31" />
+        <mark key="]" line="1212" column="47" />
+        <mark key="." line="1212" column="47" />
+        <mark key="^" line="1212" column="47" />
       </file>
-      <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/manager/cross-menu.js" timestamp="1512121360850">
+      <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/manager/cross-menu.js" timestamp="1512126083399">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="61" />
       </file>
@@ -106,11 +107,11 @@
         <mark key="^" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/providers/cross-menu.js" timestamp="1512124973053">
-        <mark key="[" line="17" column="21" />
-        <mark key="]" line="18" column="43" />
-        <mark key="." line="18" column="43" />
-        <mark key="^" line="18" column="43" />
+      <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/providers/cross-menu.js" timestamp="1512126776951">
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="11" column="38" />
+        <mark key="." line="11" column="38" />
+        <mark key="^" line="11" column="38" />
       </file>
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/api/messages.js" timestamp="1510204462849">
         <mark key="'" line="0" column="0" />
@@ -149,11 +150,11 @@
         <mark key="^" line="7" column="11" />
         <mark key="." line="7" column="11" />
       </file>
-      <file name="$USER_HOME$/project/work/ert-stb-develop/src/core/main.js" timestamp="1510205827457">
-        <mark key="'" line="486" column="11" />
-        <mark key="[" line="489" column="0" />
-        <mark key="]" line="489" column="0" />
-        <mark key="." line="489" column="0" />
+      <file name="$USER_HOME$/project/work/ert-stb-develop/src/core/main.js" timestamp="1512126142514">
+        <mark key="'" line="484" column="11" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/models/notice/notice.js" timestamp="1510206631015">
         <mark key="'" line="8" column="34" />
@@ -168,8 +169,10 @@
         <mark key="^" line="5" column="1" />
         <mark key="." line="5" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512123902255">
+      <file name="/Dummy.txt" timestamp="1512127206804">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
       </file>
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/services/providers.js" timestamp="1512123928695">
         <mark key="[" line="24" column="31" />
@@ -177,10 +180,10 @@
         <mark key="^" line="23" column="31" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/widgets/info-plate-main-menu/info-plate-main-menu.js" timestamp="1512124944865">
-        <mark key="[" line="20" column="70" />
-        <mark key="]" line="20" column="64" />
-        <mark key="." line="20" column="64" />
+      <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/widgets/info-plate-main-menu/info-plate-main-menu.js" timestamp="1512126894628">
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="0" />
+        <mark key="." line="104" column="0" />
         <mark key="^" line="20" column="64" />
       </file>
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/scenes/content-vod/content-vod.js" timestamp="1510046444436">
@@ -255,10 +258,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICogQHBhcmFtIHtlcnQuc2VydmljZXMuQXBpfSBhcGkK</text>
+        <text encoding="base64">ICogQHJldHVybiB7SVRoZW5hYmxlPHVuZGVmaW5lZD59Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text encoding="base64">IHRoaXMuX2l0ZW1zID0g</text>
       </register>
       <register name="/" type="4">
         <text>cross</text>
@@ -267,34 +270,34 @@
         <text encoding="base64">ICogQHBhcmFtIHtlcnQuc2VydmljZXMuQXBpfSBhcGkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogQHRlbXBsYXRlIHtBcnJheTxlcnQubW9kZWxzLj59Cg==</text>
+        <text encoding="base64">ICogQHJldHVybiB7SVRoZW5hYmxlPHVuZGVmaW5lZD59Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkudGhlbih0aGlzLnNldEJ1dHRvbnMuYmluZCh0aGlzKSwgdGhpcy5zZXRCdXR0b25zLmJpbmQodGhpcywgW10pKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Z29vZy5yZXF1aXJlKCdlcnQuYXBpLkNyb3NzTWVudScpOwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CXNldFRpbWVvdXQodGhpcy5fcmVsb2FkQnV0dG9ucy5iaW5kKHRoaXMpLCB0aGlzLlBSRV9MT0FEX1RJTUVPVVQpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ci8qKgogKiBAcmV0dXJuIHtJVGhlbmFibGU8QXJyYXk8Y29yZS5tb2RlbHMuQ3Jvc3NNZW51Pj59CiAqLwpjb3JlLkxpZ2h0aG91c2UucHJvdG90eXBlLmdldENyb3NzTWVudSA9IGZ1bmN0aW9uKCkgewoJcmV0dXJuIHRoaXMKCQkucmVxdWVzdCgnY29sbGVjdGlvbi9wbGF0Zm9ybS5zaG93Y2FzZS9xdWVyeS8nKQoJCS50aGVuKGZ1bmN0aW9uKHJlc3BvbnNlKSB7CgkJCXZhciBpZCA9IG51bGw7CgoJCQlpZiAocmVzcG9uc2UgJiYgcmVzcG9uc2VbJ2NvbGxlY3Rpb24nXSAmJiByZXNwb25zZVsnY29sbGVjdGlvbiddIGluc3RhbmNlb2YgQXJyYXkpIHsKCQkJCXJlc3BvbnNlWydjb2xsZWN0aW9uJ10KCQkJCQkuZmlsdGVyKGZ1bmN0aW9uKGl0ZW0pIHsKCQkJCQkJcmV0dXJuIChpdGVtWydsYWJlbHMnXSB8fCBbXSkuZmlsdGVyKGZ1bmN0aW9uKGxhYmVsKSB7CgkJCQkJCQlyZXR1cm4gbGFiZWwgPT09IGNvcmUubW9kZWxzLkNyb3NzTWVudS5MSUdIVEhPVVNFX0xBQkVMOwoJCQkJCQl9KVswXTsKCQkJCQl9KQoJCQkJCS5mb3JFYWNoKGZ1bmN0aW9uKGl0ZW0pIHsKCQkJCQkJaWQgPSBpdGVtWydpZCddOwoJCQkJCX0pOwoJCQl9CgoJCQlpZiAodHlwZW9mIGlkID09PSAnbnVtYmVyJykgewoJCQkJcmV0dXJuIHRoaXMucmVxdWVzdCgnY29sbGVjdGlvbi9zaG93Y2FzZS50aWxlL3F1ZXJ5L2RpbWVuc2lvbi9zaG93Y2FzZV9pZC9pbi8nICsgaWQpOwoJCQl9IGVsc2UgewoJCQkJdGhyb3cgJ2NvcmUuTGlnaHRob3VzZS5nZXRDcm9zc01lbnU6Ok5vdCBnZXQgaWQnOwoJCQl9CgkJfS5iaW5kKHRoaXMpKQoJCS50aGVuKGZ1bmN0aW9uKHJlc3BvbnNlKSB7CgkJCWlmIChyZXNwb25zZSAmJiByZXNwb25zZVsnY29sbGVjdGlvbiddICYmIHJlc3BvbnNlWydjb2xsZWN0aW9uJ10gaW5zdGFuY2VvZiBBcnJheSkgewoJCQkJcmV0dXJuIHJlc3BvbnNlWydjb2xsZWN0aW9uJ10ubWFwKGZ1bmN0aW9uKGl0ZW0pIHsKCQkJCQlyZXR1cm4gbmV3IGNvcmUubW9kZWxzLkNyb3NzTWVudShpdGVtKTsKCQkJCX0pOwoJCQl9IGVsc2UgewoJCQkJdGhyb3cgJ2NvcmUuTGlnaHRob3VzZS5nZXRDcm9zc01lbnU6Tm90IGdldCBjcm9zcy1tZW51JzsKCQkJfQoJCX0pOwp9OwoKCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogQHR5cGUge2VydC5hcGkuTG9jYWxTeXN0ZW19CiAqLwplcnQuc2VydmljZXMuQXBpLnByb3RvdHlwZS5sb2NhbFN5c3RlbTsKCg==</text>
+        <text encoding="base64">LyoqCiAqIEByZXR1cm4ge0lUaGVuYWJsZTxBcnJheTxjb3JlLm1vZGVscy5Dcm9zc01lbnU+Pn0KICovCmNvcmUuTGlnaHRob3VzZS5wcm90b3R5cGUuZ2V0Q3Jvc3NNZW51ID0gZnVuY3Rpb24oKSB7CglyZXR1cm4gdGhpcwoJCS5yZXF1ZXN0KCdjb2xsZWN0aW9uL3BsYXRmb3JtLnNob3djYXNlL3F1ZXJ5LycpCgkJLnRoZW4oZnVuY3Rpb24ocmVzcG9uc2UpIHsKCQkJdmFyIGlkID0gbnVsbDsKCgkJCWlmIChyZXNwb25zZSAmJiByZXNwb25zZVsnY29sbGVjdGlvbiddICYmIHJlc3BvbnNlWydjb2xsZWN0aW9uJ10gaW5zdGFuY2VvZiBBcnJheSkgewoJCQkJcmVzcG9uc2VbJ2NvbGxlY3Rpb24nXQoJCQkJCS5maWx0ZXIoZnVuY3Rpb24oaXRlbSkgewoJCQkJCQlyZXR1cm4gKGl0ZW1bJ2xhYmVscyddIHx8IFtdKS5maWx0ZXIoZnVuY3Rpb24obGFiZWwpIHsKCQkJCQkJCXJldHVybiBsYWJlbCA9PT0gY29yZS5tb2RlbHMuQ3Jvc3NNZW51LkxJR0hUSE9VU0VfTEFCRUw7CgkJCQkJCX0pWzBdOwoJCQkJCX0pCgkJCQkJLmZvckVhY2goZnVuY3Rpb24oaXRlbSkgewoJCQkJCQlpZCA9IGl0ZW1bJ2lkJ107CgkJCQkJfSk7CgkJCX0KCgkJCWlmICh0eXBlb2YgaWQgPT09ICdudW1iZXInKSB7CgkJCQlyZXR1cm4gdGhpcy5yZXF1ZXN0KCdjb2xsZWN0aW9uL3Nob3djYXNlLnRpbGUvcXVlcnkvZGltZW5zaW9uL3Nob3djYXNlX2lkL2luLycgKyBpZCk7CgkJCX0gZWxzZSB7CgkJCQl0aHJvdyAnY29yZS5MaWdodGhvdXNlLmdldENyb3NzTWVudTo6Tm90IGdldCBpZCc7CgkJCX0KCQl9LmJpbmQodGhpcykpCgkJLnRoZW4oZnVuY3Rpb24ocmVzcG9uc2UpIHsKCQkJaWYgKHJlc3BvbnNlICYmIHJlc3BvbnNlWydjb2xsZWN0aW9uJ10gJiYgcmVzcG9uc2VbJ2NvbGxlY3Rpb24nXSBpbnN0YW5jZW9mIEFycmF5KSB7CgkJCQlyZXR1cm4gcmVzcG9uc2VbJ2NvbGxlY3Rpb24nXS5tYXAoZnVuY3Rpb24oaXRlbSkgewoJCQkJCXJldHVybiBuZXcgY29yZS5tb2RlbHMuQ3Jvc3NNZW51KGl0ZW0pOwoJCQkJfSk7CgkJCX0gZWxzZSB7CgkJCQl0aHJvdyAnY29yZS5MaWdodGhvdXNlLmdldENyb3NzTWVudTpOb3QgZ2V0IGNyb3NzLW1lbnUnOwoJCQl9CgkJfSk7Cn07CgoKLyoqCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogQHR5cGUge2VydC5hcGkuR2lmdHN9CiAqLwplcnQuc2VydmljZXMuQXBpLnByb3RvdHlwZS5naWZ0czsKCgovKioK</text>
+        <text encoding="base64">Z29vZy5yZXF1aXJlKCdjb3JlLm1vZGVscy5Dcm9zc01lbnUnKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">Z29vZy5yZXF1aXJlKCdjb3JlLm1hbmFnZXIuQ3Jvc3NNZW51Jyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCiAqIEB0eXBlIHtlcnQuYXBpLkNyb3NzTWVudX0KICovCmVydC5zZXJ2aWNlcy5BcGkucHJvdG90eXBlLmNyb3NzTWVudTsKCgo=</text>
+        <text encoding="base64">Z29vZy5yZXF1aXJlKCdjb3JlLmFwaS5Dcm9zc01lbnUnKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXRoaXMuY3Jvc3NNZW51ID0gbmV3IGVydC5hcGkuQ3Jvc3NNZW51KHRyYW5zcG9ydCk7Cg==</text>
+        <text encoding="base64">CQljcm9zc01lbnU6IGFwaUNyb3NzTWVudSwK</text>
       </register>
       <register name=":" type="4">
-        <text>1191</text>
+        <text>109</text>
       </register>
     </registers>
     <search>
@@ -319,6 +322,7 @@
         <entry>1191</entry>
         <entry>/crossmenu</entry>
         <entry>/cross</entry>
+        <entry>109</entry>
       </history-cmd>
       <history-expr />
       <history-input />
