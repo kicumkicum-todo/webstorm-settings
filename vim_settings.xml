@@ -101,24 +101,20 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/project/work/ert-stb-develop/.todo.md" timestamp="1510044151185">
+      <file name="$USER_HOME$/project/work/ert-stb-develop/.todo.md" timestamp="1512128042836">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="^" line="36" column="0" />
         <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/work/ert-stb-develop/config/README.md" timestamp="1512128110361">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/providers/cross-menu.js" timestamp="1512126776951">
         <mark key="[" line="10" column="14" />
         <mark key="]" line="11" column="38" />
         <mark key="." line="11" column="38" />
         <mark key="^" line="11" column="38" />
-      </file>
-      <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/api/messages.js" timestamp="1510204462849">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="34" column="28" />
-        <mark key="]" line="34" column="28" />
-        <mark key="." line="34" column="28" />
-        <mark key="^" line="219" column="27" />
       </file>
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/scenes/abstract-vod-base/abstract-vod-base.js" timestamp="1510045457032">
         <mark key="[" line="316" column="37" />
@@ -156,13 +152,6 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/models/notice/notice.js" timestamp="1510206631015">
-        <mark key="'" line="8" column="34" />
-        <mark key="[" line="14" column="37" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="14" column="30" />
-      </file>
       <file name="$USER_HOME$/project/rest/graphic-temperature/tests/.babelrc" timestamp="1510071594419">
         <mark key="[" line="5" column="1" />
         <mark key="]" line="5" column="1" />
@@ -191,13 +180,6 @@
         <mark key="]" line="150" column="0" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="$USER_HOME$/project/rest/graphic-temperature/src/ui/service/data-base.js" timestamp="1510162580318">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="0" column="13" />
-        <mark key="^" line="0" column="13" />
-        <mark key="." line="0" column="13" />
-      </file>
       <file name="$USER_HOME$/project/work/ert-stb-develop/scripts/arrange-webapp-on-usb.js" timestamp="1510054173750">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -214,13 +196,6 @@
         <mark key="]" line="9" column="57" />
         <mark key="^" line="9" column="57" />
         <mark key="." line="9" column="57" />
-      </file>
-      <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/api/api-container.js" timestamp="1510205660771">
-        <mark key="'" line="10" column="44" />
-        <mark key="[" line="9" column="5" />
-        <mark key="]" line="9" column="1" />
-        <mark key="." line="9" column="1" />
-        <mark key="^" line="9" column="1" />
       </file>
       <file name="$USER_HOME$/project/rest/graphic-temperature/src/index.js" timestamp="1510079168728">
         <mark key="[" line="1" column="0" />
