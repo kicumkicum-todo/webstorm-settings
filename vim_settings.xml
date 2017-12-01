@@ -18,8 +18,8 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/lighthouse/api/cross-menu.js" timestamp="1512120037864">
-        <mark key="[" line="17" column="36" />
+      <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/lighthouse/api/cross-menu.js" timestamp="1512123447689">
+        <mark key="[" line="18" column="36" />
         <mark key="]" line="4" column="0" />
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
@@ -41,17 +41,18 @@
         <mark key="]" line="185" column="64" />
       </file>
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/api/cross-menu.js" timestamp="1512121927106" />
-      <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/application.js" timestamp="1512119699626">
+      <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/application.js" timestamp="1512123912636">
         <mark key="'" line="1192" column="59" />
-        <mark key="[" line="1192" column="18" />
-        <mark key="]" line="1202" column="31" />
-        <mark key="." line="1202" column="31" />
+        <mark key="[" line="1158" column="56" />
+        <mark key="]" line="1230" column="9" />
+        <mark key="." line="1230" column="9" />
         <mark key="^" line="1202" column="31" />
       </file>
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/manager/cross-menu.js" timestamp="1512121360850">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="61" />
       </file>
+      <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/providers/changes.js" timestamp="1512123596809" />
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/models/cross-menu.js" timestamp="1512120458976">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -105,10 +106,11 @@
         <mark key="^" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/providers/cross-menu.js" timestamp="1512121701872">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/providers/cross-menu.js" timestamp="1512123753754">
+        <mark key="[" line="17" column="21" />
+        <mark key="]" line="3" column="34" />
+        <mark key="." line="3" column="34" />
+        <mark key="^" line="3" column="34" />
       </file>
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/api/messages.js" timestamp="1510204462849">
         <mark key="'" line="0" column="0" />
@@ -166,13 +168,20 @@
         <mark key="^" line="5" column="1" />
         <mark key="." line="5" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512121993808">
+      <file name="/Dummy.txt" timestamp="1512123902255">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/widgets/info-plate-main-menu/info-plate-main-menu.js" timestamp="1512122291993">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/services/providers.js" timestamp="1512123928695">
+        <mark key="[" line="24" column="31" />
+        <mark key="]" line="24" column="32" />
+        <mark key="^" line="23" column="31" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/widgets/info-plate-main-menu/info-plate-main-menu.js" timestamp="1512123136650">
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="2" column="26" />
+        <mark key="." line="2" column="26" />
+        <mark key="^" line="2" column="26" />
       </file>
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/scenes/content-vod/content-vod.js" timestamp="1510046444436">
         <mark key="[" line="150" column="0" />
@@ -246,7 +255,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICogQHRlbXBsYXRlIHtBcnJheTxlcnQubW9kZWxzLj59Cg==</text>
+        <text encoding="base64">ICogQHBhcmFtIHtlcnQuc2VydmljZXMuQXBpfSBhcGkK</text>
       </register>
       <register name="-" type="4">
         <text>data</text>
@@ -254,8 +263,8 @@
       <register name="/" type="4">
         <text>cross</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">CW9wdF9kYXRhID0gb3B0X2RhdGEgfHwge307CglvcHRfZGF0YVsnYmFubmVyX2FjdGlvbiddID0gb3B0X2RhdGFbJ2Jhbm5lcl9hY3Rpb24nXSB8fCB7fTsKCgkvKiogQGxlbmRzIHtjb3JlLm1vZGVscy5Dcm9zc01lbnUucHJvdG90eXBlfSAqLygKCU9iamVjdC5kZWZpbmVQcm9wZXJ0aWVzKHRoaXMsIHsKCQkvKioKCQkgKiBAdHlwZSB7c3RyaW5nfQoJCSAqLwoJCSd0aXRsZSc6IHsKCQkJdmFsdWU6IG9wdF9kYXRhWydiYW5uZXJfYWN0aW9uJ11bJ3RleHQnXSwKCQkJZW51bWVyYWJsZTogdHJ1ZQoJCX0sCgkJLyoqCgkJICogQHR5cGUge3N0cmluZ30KCQkgKi8KCQkndXJpJzogewoJCQl2YWx1ZTogb3B0X2RhdGFbJ2Jhbm5lcl9hY3Rpb24nXVsndXJpJ10sCgkJCWVudW1lcmFibGU6IHRydWUKCQl9Cgl9KSk7</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICogQHBhcmFtIHtlcnQuc2VydmljZXMuQXBpfSBhcGkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICogQHRlbXBsYXRlIHtBcnJheTxlcnQubW9kZWxzLj59Cg==</text>
