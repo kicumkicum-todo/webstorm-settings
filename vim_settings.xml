@@ -98,6 +98,13 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="14" column="30" />
       </file>
+      <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/application.js" timestamp="1512114908022">
+        <mark key="'" line="1192" column="59" />
+        <mark key="[" line="1192" column="18" />
+        <mark key="]" line="1192" column="19" />
+        <mark key="." line="1192" column="19" />
+        <mark key="^" line="1192" column="62" />
+      </file>
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/manager/cross-menu.js" timestamp="1510129812372">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="61" />
@@ -116,7 +123,7 @@
         <mark key="." line="52" column="30" />
         <mark key="^" line="52" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510206431147">
+      <file name="/Dummy.txt" timestamp="1512115038969">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/api/showcases.js" timestamp="1510129961781">
@@ -237,55 +244,58 @@
       <jump line="6" column="36" filename="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/lighthouse/api/messages.js" />
       <jump line="486" column="11" filename="$USER_HOME$/project/work/ert-stb-develop/src/core/main.js" />
       <jump line="8" column="34" filename="$USER_HOME$/project/work/ert-stb-develop/src/lib/models/notice/notice.js" />
+      <jump line="1191" column="59" filename="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/application.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>'nuid:' + ert.utils.system.getDeviceId(devc</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>'nuid:' + ert.utils.system.getDeviceId(devc</text>
       </register>
       <register name="/" type="4">
-        <text>exper</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">CgovKioKICogQHBhcmFtIHtzdHJpbmd9IG5vdGlmaWNhdGlvbklkCiAqIFRPRE86IFJldHVybiBqc2RvYwogKiBAcmV0dXJuIHtJVGhlbmFibGV9CiAqLwpsaWdodGhvdXNlLmFwaS5NZXNzYWdlcy5wcm90b3R5cGUucmVtb3ZlID0gZnVuY3Rpb24obm90aWZpY2F0aW9uSWQpIHsKCXJldHVybiB0aGlzLl9saC5yZXF1ZXN0KCdlci9ub3RpZmljYXRpb25zL3JlbW92ZScsICdQT1NUJywgewoJCQlpZDogbm90aWZpY2F0aW9uSWQKCQl9KTsKfTs=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CX07Cg==</text>
+      <register name="1" type="4">
+        <text>c
+		},
+		url:</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWxpZ2h0aG91c2VBcGlDb250YWluZXIubWVzc2FnZXMuCg==</text>
+        <text encoding="base64">CX07Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSAqIAo=</text>
+        <text encoding="base64">CWxpZ2h0aG91c2VBcGlDb250YWluZXIubWVzc2FnZXMuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">CSAqIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29yZTMuQXBpQ29udGFpbmVyLnByb3RvdHlwZS5faW5pdCA9IGZ1bmN0aW9uKCkgewoJCn07Cg==</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">Y29yZTMuQXBpQ29udGFpbmVyLnByb3RvdHlwZS5faW5pdCA9IGZ1bmN0aW9uKCkgewoJCn07Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGRkKiBDcmVhdGVkIGJ5IG9sZWcgb24gMDkuMTEuMTcuCg==</text>
+        <text encoding="base64">Ki8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBvbGVnIG9uIDA5LjExLjE3LgogKi8K</text>
+        <text encoding="base64">ZGRkKiBDcmVhdGVkIGJ5IG9sZWcgb24gMDkuMTEuMTcuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBvbGVnIG9uIDA5LjExLjE3LgogKi8K</text>
       </register>
       <register name=":" type="4">
-        <text>/build</text>
+        <text>1191</text>
       </register>
     </registers>
     <search>
-      <last-search>exper</last-search>
+      <last-search encoding="base64">IA==</last-search>
       <last-offset />
-      <last-pattern>exper</last-pattern>
+      <last-pattern encoding="base64">IA==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -293,11 +303,13 @@
       <history-search>
         <entry>build</entry>
         <entry>exper</entry>
+        <entry encoding="base64">IA==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
         <entry>/build</entry>
         <entry>/exper</entry>
+        <entry>1191</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -335,6 +347,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
