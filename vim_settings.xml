@@ -19,17 +19,26 @@
         <mark key="^" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/models/cross-menu.js" timestamp="1512118673622" />
+      <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/models/cross-menu.js" timestamp="1512120328992">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="28" column="7" />
+      </file>
+      <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/providers/cross-menu.js" timestamp="1512121508953">
+        <mark key="[" line="21" column="18" />
+        <mark key="]" line="21" column="18" />
+        <mark key="^" line="23" column="49" />
+        <mark key="." line="21" column="18" />
+      </file>
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/models/notice/notice-collection.js" timestamp="1510204413448">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/lighthouse/api/cross-menu.js" timestamp="1512119152326">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/lighthouse/api/cross-menu.js" timestamp="1512120037864">
+        <mark key="[" line="17" column="36" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/api/messages.js" timestamp="1510204462849">
         <mark key="'" line="0" column="0" />
@@ -97,12 +106,16 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="14" column="30" />
       </file>
-      <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/application.js" timestamp="1512114908022">
+      <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/application.js" timestamp="1512119699626">
         <mark key="'" line="1192" column="59" />
         <mark key="[" line="1192" column="18" />
-        <mark key="]" line="1192" column="19" />
-        <mark key="." line="1192" column="19" />
-        <mark key="^" line="1192" column="62" />
+        <mark key="]" line="1202" column="31" />
+        <mark key="." line="1202" column="31" />
+        <mark key="^" line="1202" column="31" />
+      </file>
+      <file name="$USER_HOME$/project/work/ert-stb-develop/src/lib/manager/cross-menu.js" timestamp="1512121360850">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="61" />
       </file>
       <file name="$USER_HOME$/project/rest/graphic-temperature/tests/.babelrc" timestamp="1510071594419">
         <mark key="[" line="5" column="1" />
@@ -118,8 +131,14 @@
         <mark key="." line="52" column="30" />
         <mark key="^" line="52" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512117844504">
+      <file name="/Dummy.txt" timestamp="1512121227958">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/models/cross-menu.js" timestamp="1512120458976">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="26" column="35" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/scenes/content-vod/content-vod.js" timestamp="1510046444436">
         <mark key="[" line="150" column="0" />
@@ -220,53 +239,53 @@
       <jump line="1191" column="59" filename="$USER_HOME$/project/work/ert-stb-develop/src/ui/app/ert/application.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cn07Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ID0gWw==</text>
       </register>
       <register name="-" type="4">
-        <text>'nuid:' + ert.utils.system.getDeviceId(devc</text>
+        <text encoding="base64">ID0gWw==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">IA==</text>
+        <text>cross</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Z29vZy5pbmhlcml0cyhsaWdodGhvdXNlLmFwaS5Dcm9zc01lbnUsICkK</text>
+      <register name="0" type="4">
+        <text encoding="base64">CW9wdF9kYXRhID0gb3B0X2RhdGEgfHwge307CglvcHRfZGF0YVsnYmFubmVyX2FjdGlvbiddID0gb3B0X2RhdGFbJ2Jhbm5lcl9hY3Rpb24nXSB8fCB7fTsKCgkvKiogQGxlbmRzIHtjb3JlLm1vZGVscy5Dcm9zc01lbnUucHJvdG90eXBlfSAqLygKCU9iamVjdC5kZWZpbmVQcm9wZXJ0aWVzKHRoaXMsIHsKCQkvKioKCQkgKiBAdHlwZSB7c3RyaW5nfQoJCSAqLwoJCSd0aXRsZSc6IHsKCQkJdmFsdWU6IG9wdF9kYXRhWydiYW5uZXJfYWN0aW9uJ11bJ3RleHQnXSwKCQkJZW51bWVyYWJsZTogdHJ1ZQoJCX0sCgkJLyoqCgkJICogQHR5cGUge3N0cmluZ30KCQkgKi8KCQkndXJpJzogewoJCQl2YWx1ZTogb3B0X2RhdGFbJ2Jhbm5lcl9hY3Rpb24nXVsndXJpJ10sCgkJCWVudW1lcmFibGU6IHRydWUKCQl9Cgl9KSk7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cn07Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CS8vIH0pOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">LyoqIEBsZW5kcyB7Y29yZS5tb2RlbHMuQ3Jvc3NNZW51LnByb3RvdHlwZX0gKi8oCglPYmplY3QuZGVmaW5lUHJvcGVydGllcyh0aGlzLCB7CgkJLyoqCgkJICogQHR5cGUge3N0cmluZ30KCQkgKi8KCQkndGl0bGUnOiB7CgkJCXZhbHVlOiBkYXRhWydiYW5uZXJfYWN0aW9uJ11bJ3RleHQnXSwKCQkJZW51bWVyYWJsZTogdHJ1ZQoJCX0sCgkJLyoqCgkJICogQHR5cGUge3N0cmluZ30KCQkgKi8KCQkndXJpJzogewoJCQl2YWx1ZTogZGF0YVsnYmFubmVyX2FjdGlvbiddWyd1cmknXSwKCQkJZW51bWVyYWJsZTogdHJ1ZQoJCX0KCX0pKTsKCQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CS8vIAlsaDogY29ubmVjdGlvbgo=</text>
+        <text encoding="base64">CWRhdGEgPSBkYXRhIHx8IHt9Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CS8vIHRoaXMuZXBnID0gbmV3IGxpZ2h0aG91c2UuYXBpLkVwZyh7Cg==</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CS8vICAqLwo=</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CS8vICAqIEB0eXBlIHtsaWdodGhvdXNlLmFwaS5FcGd9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CS8vIC8qKgo=</text>
+        <text encoding="base64">ZXJ0Lm1vZGVscy5Dcm9zc01lbnUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Z29vZy5pbmhlcml0cyhsaWdodGhvdXNlLmFwaS5Dcm9zc01lbnUsICkK</text>
+        <text encoding="base64">Cn07Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Z29vZy5pbmhlcml0cyhsaWdodGhvdXNlLmFwaS5Dcm9zc01lbnUsICkK</text>
+        <text encoding="base64">CS8vIH0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>1191</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">IA==</last-search>
+      <last-search>cross</last-search>
       <last-offset />
-      <last-pattern encoding="base64">IA==</last-pattern>
+      <last-pattern>cross</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -275,12 +294,16 @@
         <entry>build</entry>
         <entry>exper</entry>
         <entry encoding="base64">IA==</entry>
+        <entry>crossmenu</entry>
+        <entry>cross</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
         <entry>/build</entry>
         <entry>/exper</entry>
         <entry>1191</entry>
+        <entry>/crossmenu</entry>
+        <entry>/cross</entry>
       </history-cmd>
       <history-expr />
       <history-input />
