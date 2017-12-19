@@ -1,5 +1,9 @@
 <application>
   <component name="libraryTable">
+    <library name="@types/chrome" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="chrome-DefinitelyTyped" type="javaScript">
       <CLASSES>
         <root url="file://$USER_HOME$/.WebStorm10/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_chrome_chrome.d.ts" />
