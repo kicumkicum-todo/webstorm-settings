@@ -17,15 +17,15 @@
       <mask>package.json</mask>
       <mask>*</mask>
       <mask>*.js^</mask>
-      <mask>*.m</mask>
-      <mask>*.md</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.t</mask>
       <mask>*.ts</mask>
       <mask>*.js$</mask>
       <mask>*.jst</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.m</mask>
+      <mask>*.md</mask>
     </recentFileMasks>
   </component>
 </application>
