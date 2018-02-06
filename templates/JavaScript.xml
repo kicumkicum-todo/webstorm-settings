@@ -145,7 +145,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="aaa" value="/**&#10; * @type {$TYPE$}&#10; * @$ACCESS_TYPE$&#10; */&#10;$CLASS_NAME$.prototype.$PROP$;&#10;&#10;" toReformat="false" toShortenFQNames="true">
+  <template name="aaa" value="/**&#10; * @type {$TYPE$}&#10; * @$ACCESS_TYPE$&#10; */&#10;$CLASS_NAME$.prototype.$PROP$;&#10;&#10;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="ACCESS_TYPE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="CLASS_NAME" expression="jsQualifiedClassName()" defaultValue="" alwaysStopAt="true" />
