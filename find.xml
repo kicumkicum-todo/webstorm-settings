@@ -11,15 +11,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.mxml</mask>
-      <mask>package.json</mask>
-      <mask>*</mask>
       <mask>*.js^</mask>
       <mask>*.t</mask>
       <mask>*.ts</mask>
@@ -34,6 +25,21 @@
       <mask>*.json</mask>
       <mask>*.jso</mask>
       <mask>*.jst</mask>
+      <mask>*[%].js</mask>
+      <mask>*[].js</mask>
+      <mask>*[^].js</mask>
+      <mask>*[^.].js</mask>
+      <mask>*[^.j].js</mask>
+      <mask>*[^.js].js</mask>
+      <mask>*[^\.jst].js</mask>
+      <mask>*[^.jst].js</mask>
+      <mask>*[.jst].js</mask>
+      <mask>.jst].js</mask>
+      <mask>*.jst].js</mask>
+      <mask>*.jst-.js</mask>
+      <mask>*.jst\.js</mask>
+      <mask>*.jst.js</mask>
+      <mask>*..js</mask>
       <mask>*.js</mask>
     </recentFileMasks>
   </component>
