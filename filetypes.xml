@@ -12,9 +12,11 @@
       <mapping pattern="u" type="PLAIN_TEXT" />
       <mapping pattern="tmp" type="PLAIN_TEXT" />
       <mapping pattern="e" type="PLAIN_TEXT" />
+      <mapping pattern="2" type="PLAIN_TEXT" />
       <mapping pattern="native-messaging-example-host" type="PLAIN_TEXT" />
       <mapping pattern="t" type="PLAIN_TEXT" />
       <mapping pattern="tpm-bad" type="PLAIN_TEXT" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern=".todo" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="tmp-bad" type="PLAIN_TEXT" />
