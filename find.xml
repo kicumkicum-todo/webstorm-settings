@@ -11,38 +11,5 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
-    <recentFileMasks>
-      <mask>*.js^</mask>
-      <mask>*.t</mask>
-      <mask>*.ts</mask>
-      <mask>*.js$</mask>
-      <mask>*.md</mask>
-      <mask>*.m</mask>
-      <mask>*.css</mask>
-      <mask>*.cs</mask>
-      <mask>*.c</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.json</mask>
-      <mask>*.jso</mask>
-      <mask>*.jst</mask>
-      <mask>*[%].js</mask>
-      <mask>*[].js</mask>
-      <mask>*[^].js</mask>
-      <mask>*[^.].js</mask>
-      <mask>*[^.j].js</mask>
-      <mask>*[^.js].js</mask>
-      <mask>*[^\.jst].js</mask>
-      <mask>*[^.jst].js</mask>
-      <mask>*[.jst].js</mask>
-      <mask>.jst].js</mask>
-      <mask>*.jst].js</mask>
-      <mask>*.jst-.js</mask>
-      <mask>*.jst\.js</mask>
-      <mask>*.jst.js</mask>
-      <mask>*..js</mask>
-      <mask>*.js</mask>
-    </recentFileMasks>
   </component>
 </application>
